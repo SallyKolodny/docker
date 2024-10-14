@@ -3,10 +3,10 @@
 docker run \
 	--rm \
 	-di \
-	--name="p2pooldev" \
-	--hostname=p2pooldev \
+	--name="p2poolqa" \
+	--hostname=p2poolqa \
 	--domainname="osoyalce.com" \
 	-p 3334:3334 \
 	-v /opt/dev/p2pool:/opt/p2pool \
 	-v /opt/dev/docker/utils:/opt/utils \
-	p2pooldev:latest
+	sallykolodny/db4e:p2pooldev
