@@ -1,6 +1,5 @@
-# P2Pool DEV Dockerfile
+# P2Pool QA Dockerfile
 
-FROM debian:p2poolqa
+FROM sallykolodny/db4e:p2poolqa
 WORKDIR /opt/p2pool
-CMD ["/opt/docker/bin/start.sh"]
-
+CMD ["/opt/p2pool/start-p2poolqa-mini.sh"]
