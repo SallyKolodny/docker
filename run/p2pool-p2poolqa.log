@@ -134,3 +134,1676 @@ Uptime         = 2d 21h 42m 32s[0m
 [0;36m2024-10-21 17:02:23.1951[0m [0;90mP2Pool [0m[0;92msubmit_block: BLOCK ACCEPTED at height 3264089 and difficulty = 367357582338[0m
 2024-10-21 17:02:22.1464 P2Pool BLOCK FOUND: main chain block at height 3264089 was mined by someone else in this p2pool
 [0;36m2024-10-21 18:41:49.4437[0m [0;90mStratumServer [0m[0;32mSHARE FOUND: mainchain height 3264127, sidechain height 8982042, diff 113978895, client 192.168.0.86:51218, user sally, effort 174.713%[0m
+[0;36m2024-10-21 19:33:24.0598[0m [0;90mStratumServer [0m[0;32mSHARE FOUND: mainchain height 3264149, sidechain height 8982358, diff 117556956, client 192.168.0.220:48940, user phoebe, effort 17.134%[0m
+[0;36m2024-10-21 20:35:58.8964[0m [0;90mSideChain [0m[0;92madd_external_block: block da28a84f676bebc830440b2690907e809a4e6ddeb9f9b78ddd9f5510afe29e4a has enough PoW for Monero network, submitting it[0m
+[0;36m2024-10-21 20:35:58.9095[0m [0;90mP2Pool [0m[0;92msubmit_block: height = 3264172, external blob (24453 bytes)[0m
+[0;36m2024-10-21 20:35:59.1539[0m [0;90mP2Pool [0m[0;92mBLOCK FOUND: main chain block at height 3264172 was mined by someone else in this p2pool
+-----------------------------------------------------------------------------------------------
+| ######   #        #######   #####   #    #      #######  #######  #     #  #     #  ######  |
+| #     #  #        #     #  #     #  #   #       #        #     #  #     #  ##    #  #     # |
+| #     #  #        #     #  #        #  #        #        #     #  #     #  # #   #  #     # |
+| ######   #        #     #  #        ###         #####    #     #  #     #  #  #  #  #     # |
+| #     #  #        #     #  #        #  #        #        #     #  #     #  #   # #  #     # |
+| #     #  #        #     #  #     #  #   #       #        #     #  #     #  #    ##  #     # |
+| ######   #######  #######   #####   #    #      #        #######   #####   #     #  ######  |
+-----------------------------------------------------------------------------------------------[0m
+[0;36m2024-10-21 20:35:59.1543[0m [0;90mP2Pool [0m[0;96mYour wallet [0;92m48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG[0;96m got a payout of [0;92m0.000535325566 XMR[0;96m in block [0;92m3264172[0m
+[0;36m2024-10-21 20:35:59.7246[0m [0;90mP2Pool [0m[0;92msubmit_block: BLOCK ACCEPTED at height 3264172 and difficulty = 384800205024[0m
+[0;36m2024-10-22 02:05:36.4378[0m [0;90mStratumServer [0m[0;32mSHARE FOUND: mainchain height 3264294, sidechain height 8984609, diff 119868025, client 192.168.0.192:53838, user brat, effort 134.355%[0m
+[0;36m2024-10-22 03:33:43.9849[0m [0;90mStratumServer [0m[0;32mSHARE FOUND: mainchain height 3264329, sidechain height 8985105, diff 117413654, client 192.168.0.176:51590, user kermit, effort 31.000%[0m
+[0;36m2024-10-22 04:34:25.9689[0m [0;90mStratumServer [0m[0;32mSHARE FOUND: mainchain height 3264363, sidechain height 8985466, diff 116757473, client 192.168.0.220:60090, user phoebe, effort 21.233%[0m
+[0;36m2024-10-22 08:40:09.0088[0m [0;90mStratumServer [0m[0;32mSHARE FOUND: mainchain height 3264474, sidechain height 8986909, diff 119230481, client 192.168.0.244:38026, user bingo, effort 87.141%[0m
+[0;36m2024-10-22 11:59:18.1596[0m [0;90mRandomX_Hasher [0mnew seed [0;94m246aa101aaad87f17dbc1a628c13ee25dc81eaa9ad56032d99f200c408cf60c3[0m
+[0;36m2024-10-22 11:59:19.9548[0m [0;90mRandomX_Hasher [0m[0;96mcache updated[0m
+[0;36m2024-10-22 11:59:19.9549[0m [0;90mRandomX_Hasher [0m[0;96mrunning 2 threads to update dataset[0m
+[0;36m2024-10-22 11:59:34.6240[0m [0;90mRandomX_Hasher [0m[0;96mdataset updated[0m
+[0;36m2024-10-22 14:38:03.5284[0m [0;90mSideChain [0m[0;92madd_external_block: block e28b3b8d910da320507b758725ebb20d74ceca9375dc7a6715fe50fab3095ff7 has enough PoW for Monero network, submitting it[0m
+[0;36m2024-10-22 14:38:03.5290[0m [0;90mP2Pool [0m[0;92msubmit_block: height = 3264662, external blob (29095 bytes)[0m
+[0;36m2024-10-22 14:38:05.1642[0m [0;90mP2Pool [0m[0;92mBLOCK FOUND: main chain block at height 3264662 was mined by someone else in this p2pool
+-----------------------------------------------------------------------------------------------
+| ######   #        #######   #####   #    #      #######  #######  #     #  #     #  ######  |
+| #     #  #        #     #  #     #  #   #       #        #     #  #     #  ##    #  #     # |
+| #     #  #        #     #  #        #  #        #        #     #  #     #  # #   #  #     # |
+| ######   #        #     #  #        ###         #####    #     #  #     #  #  #  #  #     # |
+| #     #  #        #     #  #        #  #        #        #     #  #     #  #   # #  #     # |
+| #     #  #        #     #  #     #  #   #       #        #     #  #     #  #    ##  #     # |
+| ######   #######  #######   #####   #    #      #        #######   #####   #     #  ######  |
+-----------------------------------------------------------------------------------------------[0m
+[0;36m2024-10-22 14:38:05.1643[0m [0;90mP2Pool [0m[0;96mYour wallet [0;92m48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG[0;96m got a payout of [0;92m0.000297893490 XMR[0;96m in block [0;92m3264662[0m
+[0;36m2024-10-22 14:38:07.7136[0m [0;90mP2Pool [0m[0;92msubmit_block: BLOCK ACCEPTED at height 3264662 and difficulty = 329896856151[0m
+2024-10-21 20:35:59.1543 P2Pool Your wallet 48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG got a payout of 0.000535325566 XMR in block 3264172
+2024-10-22 14:38:05.1643 P2Pool Your wallet 48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG got a payout of 0.000297893490 XMR in block 3264662
+[0;36m2024-10-22 17:43:16.6386[0m [0;90mStratumServer [0m[0;32mSHARE FOUND: mainchain height 3264765, sidechain height 8989997, diff 110146745, client 192.168.0.169:35104, user maia, effort 207.129%[0m
+[0;36m2024-10-22 17:57:44.4062[0m [0;90mStratumServer [0m[0;32mSHARE FOUND: mainchain height 3264770, sidechain height 8990080, diff 110473222, client 192.168.0.176:38770, user kermit, effort 4.674%[0m
+[0;36m2024-10-22 18:47:42.7970[0m [0;90mStratumServer [0m[0;32mSHARE FOUND: mainchain height 3264792, sidechain height 8990378, diff 109301472, client 192.168.0.86:51218, user sally, effort 18.419%[0m
+[0;36m2024-10-22 19:49:27.1063[0m [0;90mSideChain [0mstatus
+Monero node               = 192.168.0.176:20081:ZMQ:20083
+Main chain height         = 3264825
+Main chain hashrate       = 2.742 GH/s
+Side chain ID             = mini
+Side chain height         = 8990787
+Side chain hashrate       = 10.845 MH/s
+Your hashrate (pool-side) = 14.645 KH/s
+PPLNS window              = 2160 blocks (+49 uncles, 0 orphans)
+PPLNS window duration     = 6h 15m 26s
+Your wallet address       = 48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG
+Your shares               = 3 blocks (+0 uncles, 0 orphans)
+Your shares position      = [.....1...11...................]
+Block reward share        = 0.135% (0.000827228639 XMR)[0m
+[0;36m2024-10-22 19:49:27.1070[0m [0;90mStratumServer [0mstatus
+Hashrate (15m est) = 6.940 KH/s
+Hashrate (1h  est) = 6.930 KH/s
+Hashrate (24h est) = 6.919 KH/s
+Total hashes       = 2410338109
+Shares found       = 24
+Average effort     = 85.858%
+Current effort     = 23.464%
+Connections        = 7 (7 incoming)[0m
+[0;36m2024-10-22 19:49:27.1073[0m [0;90mP2PServer [0mstatus
+Connections    = 31 (15 incoming)
+Peer list size = 987
+Uptime         = 4d 1h 29m 12s[0m
+[0;36m2024-10-22 19:49:27.1075[0m [0;90mUtil [0mno background jobs running[0m
+[0;36m2024-10-22 22:35:33.5717[0m [0;90mStratumServer [0mIP:port                    TLS    uptime              difficulty          hashrate       name[0m
+[0;36m2024-10-22 22:35:33.5720[0m [0;90mStratumServer [0m192.168.0.169:35104        no     18h 34m 32s         39907               1.330 KH/s     maia[0m
+[0;36m2024-10-22 22:35:33.5721[0m [0;90mStratumServer [0m192.168.0.192:33094        no     18h 34m 32s         20908               696 H/s        brat[0m
+[0;36m2024-10-22 22:35:33.5722[0m [0;90mStratumServer [0m192.168.0.220:60090        no     18h 34m 32s         25008               833 H/s        phoebe[0m
+[0;36m2024-10-22 22:35:33.5723[0m [0;90mStratumServer [0m192.168.0.176:38770        no     18h 34m 32s         42006               1.400 KH/s     kermit[0m
+[0;36m2024-10-22 22:35:33.5725[0m [0;90mStratumServer [0m192.168.0.244:38026        no     4d 4h 15m 12s       6811                229 H/s        bingo[0m
+[0;36m2024-10-22 22:35:33.5726[0m [0;90mStratumServer [0m192.168.0.86:51218         no     4d 4h 15m 12s       41210               1.339 KH/s     sally[0m
+[0;36m2024-10-22 22:35:33.5727[0m [0;90mStratumServer [0m192.168.0.27:33002         no     4d 4h 15m 12s       23898               817 H/s        paris[0m
+[0;36m2024-10-22 22:35:33.5728[0m [0;90mStratumServer [0mTotal: 7 workers[0m
+[0;36m2024-10-22 23:44:53.0623[0m [0;90mSideChain [0m[0;92madd_external_block: block 9e4c5466547da7803532b331a51d142c5ac7eb6c637cc24ec3d9cb078162fc22 has enough PoW for Monero network, submitting it[0m
+[0;36m2024-10-22 23:44:53.0754[0m [0;90mP2Pool [0m[0;92msubmit_block: height = 3264954, external blob (23831 bytes)[0m
+[0;36m2024-10-22 23:44:53.3297[0m [0;90mP2Pool [0m[0;92mBLOCK FOUND: main chain block at height 3264954 was mined by someone else in this p2pool
+-----------------------------------------------------------------------------------------------
+| ######   #        #######   #####   #    #      #######  #######  #     #  #     #  ######  |
+| #     #  #        #     #  #     #  #   #       #        #     #  #     #  ##    #  #     # |
+| #     #  #        #     #  #        #  #        #        #     #  #     #  # #   #  #     # |
+| ######   #        #     #  #        ###         #####    #     #  #     #  #  #  #  #     # |
+| #     #  #        #     #  #        #  #        #        #     #  #     #  #   # #  #     # |
+| #     #  #        #     #  #     #  #   #       #        #     #  #     #  #    ##  #     # |
+| ######   #######  #######   #####   #    #      #        #######   #####   #     #  ######  |
+-----------------------------------------------------------------------------------------------[0m
+[0;36m2024-10-22 23:44:53.3302[0m [0;90mP2Pool [0m[0;96mYour wallet [0;92m48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG[0;96m got a payout of [0;92m0.000525735757 XMR[0;96m in block [0;92m3264954[0m
+[0;36m2024-10-22 23:44:53.8216[0m [0;90mP2Pool [0m[0;92msubmit_block: BLOCK ACCEPTED at height 3264954 and difficulty = 352310053156[0m
+[0;36m2024-10-23 02:58:54.4662[0m [0;90mStratumServer [0m[0;32mSHARE FOUND: mainchain height 3265038, sidechain height 8993308, diff 119726669, client 192.168.0.86:51218, user sally, effort 168.010%[0m
+[0;36m2024-10-23 05:03:56.2736[0m [0;90mStratumServer [0m[0;32mSHARE FOUND: mainchain height 3265089, sidechain height 8994018, diff 115723966, client 192.168.0.176:45460, user kermit, effort 47.706%[0m
+[0;36m2024-10-23 07:55:36.6921[0m [0;90mStratumServer [0m[0;32mSHARE FOUND: mainchain height 3265188, sidechain height 8995043, diff 115039522, client 192.168.0.169:45144, user maia, effort 62.861%[0m
+[0;36m2024-10-23 08:25:00.8212[0m [0;90mSideChain [0m[0;92madd_external_block: block d31043d89fc9ff8fdc64485cf0ce09b20a56949041037587fe7170236a887d7d has enough PoW for Monero network, submitting it[0m
+[0;36m2024-10-23 08:25:00.8274[0m [0;90mP2Pool [0m[0;92msubmit_block: height = 3265204, external blob (25462 bytes)[0m
+[0;36m2024-10-23 08:25:01.0441[0m [0;90mP2Pool [0m[0;92mBLOCK FOUND: main chain block at height 3265204 was mined by someone else in this p2pool
+-----------------------------------------------------------------------------------------------
+| ######   #        #######   #####   #    #      #######  #######  #     #  #     #  ######  |
+| #     #  #        #     #  #     #  #   #       #        #     #  #     #  ##    #  #     # |
+| #     #  #        #     #  #        #  #        #        #     #  #     #  # #   #  #     # |
+| ######   #        #     #  #        ###         #####    #     #  #     #  #  #  #  #     # |
+| #     #  #        #     #  #        #  #        #        #     #  #     #  #   # #  #     # |
+| #     #  #        #     #  #     #  #   #       #        #     #  #     #  #    ##  #     # |
+| ######   #######  #######   #####   #    #      #        #######   #####   #     #  ######  |
+-----------------------------------------------------------------------------------------------[0m
+[0;36m2024-10-23 08:25:01.0444[0m [0;90mP2Pool [0m[0;96mYour wallet [0;92m48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG[0;96m got a payout of [0;92m0.000840289205 XMR[0;96m in block [0;92m3265204[0m
+[0;36m2024-10-23 08:25:03.8188[0m [0;90mP2Pool [0m[0;92msubmit_block: BLOCK ACCEPTED at height 3265204 and difficulty = 336293547358[0m
+[0;36m2024-10-23 10:47:37.6436[0m [0;90mStratumServer [0m[0;32mSHARE FOUND: mainchain height 3265272, sidechain height 8995994, diff 112412049, client 192.168.0.86:51218, user sally, effort 62.871%[0m
+[0;36m2024-10-23 13:56:29.0527[0m [0;90mSideChain [0mstatus
+Monero node               = 192.168.0.176:20081:ZMQ:20083
+Main chain height         = 3265373
+Main chain hashrate       = 2.861 GH/s
+Side chain ID             = mini
+Side chain height         = 8997130
+Side chain hashrate       = 11.049 MH/s
+Your hashrate (pool-side) = 10.026 KH/s
+PPLNS window              = 2160 blocks (+55 uncles, 0 orphans)
+PPLNS window duration     = 6h 18m 5s
+Your wallet address       = 48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG
+Your shares               = 2 blocks (+0 uncles, 0 orphans)
+Your shares position      = [...............1............1.]
+Block reward share        = 0.091% (0.000551385261 XMR)[0m
+[0;36m2024-10-23 13:56:29.0528[0m [0;90mStratumServer [0mstatus
+Hashrate (15m est) = 6.031 KH/s
+Hashrate (1h  est) = 6.863 KH/s
+Hashrate (24h est) = 6.879 KH/s
+Total hashes       = 2860471465
+Shares found       = 28
+Average effort     = 85.917%
+Current effort     = 68.992%
+Connections        = 7 (7 incoming)[0m
+[0;36m2024-10-23 13:56:29.0528[0m [0;90mP2PServer [0mstatus
+Connections    = 32 (16 incoming)
+Peer list size = 969
+Uptime         = 4d 19h 36m 14s[0m
+[0;36m2024-10-23 13:56:29.0528[0m [0;90mUtil [0mno background jobs running[0m
+[0;36m2024-10-23 17:24:52.2434[0m [0;90mStratumServer [0m[0;32mSHARE FOUND: mainchain height 3265468, sidechain height 8998310, diff 111432136, client 192.168.0.169:45144, user maia, effort 148.852%[0m
+[0;36m2024-10-23 19:00:02.8246[0m [0;90mSideChain [0mstatus
+Monero node               = 192.168.0.176:20081:ZMQ:20083
+Main chain height         = 3265521
+Main chain hashrate       = 2.841 GH/s
+Side chain ID             = mini
+Side chain height         = 8998870
+Side chain hashrate       = 11.243 MH/s
+Your hashrate (pool-side) = 5.033 KH/s
+PPLNS window              = 2160 blocks (+67 uncles, 0 orphans)
+PPLNS window duration     = 6h 8m 56s
+Your wallet address       = 48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG
+Your shares               = 1 blocks (+0 uncles, 0 orphans)
+Your shares position      = [.......1......................]
+Block reward share        = 0.045% (0.000268632842 XMR)[0m
+[0;36m2024-10-23 19:00:02.8247[0m [0;90mStratumServer [0mstatus
+Hashrate (15m est) = 6.962 KH/s
+Hashrate (1h  est) = 6.816 KH/s
+Hashrate (24h est) = 6.938 KH/s
+Total hashes       = 2989247004
+Shares found       = 29
+Average effort     = 88.009%
+Current effort     = 34.808%
+Connections        = 7 (7 incoming)[0m
+[0;36m2024-10-23 19:00:02.8247[0m [0;90mP2PServer [0mstatus
+Connections    = 32 (16 incoming)
+Peer list size = 951
+Uptime         = 5d 0h 39m 48s[0m
+[0;36m2024-10-23 19:00:02.8247[0m [0;90mUtil [0mno background jobs running[0m
+[0;36m2024-10-23 19:00:05.6796[0m [0;90mSideChain [0mstatus
+Monero node               = 192.168.0.176:20081:ZMQ:20083
+Main chain height         = 3265521
+Main chain hashrate       = 2.841 GH/s
+Side chain ID             = mini
+Side chain height         = 8998870
+Side chain hashrate       = 11.243 MH/s
+Your hashrate (pool-side) = 5.033 KH/s
+PPLNS window              = 2160 blocks (+67 uncles, 0 orphans)
+PPLNS window duration     = 6h 8m 56s
+Your wallet address       = 48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG
+Your shares               = 1 blocks (+0 uncles, 0 orphans)
+Your shares position      = [.......1......................]
+Block reward share        = 0.045% (0.000268632842 XMR)[0m
+[0;36m2024-10-23 19:00:05.6802[0m [0;90mStratumServer [0mstatus
+Hashrate (15m est) = 6.938 KH/s
+Hashrate (1h  est) = 6.802 KH/s
+Hashrate (24h est) = 6.938 KH/s
+Total hashes       = 2989247004
+Shares found       = 29
+Average effort     = 88.009%
+Current effort     = 34.808%
+Connections        = 7 (7 incoming)[0m
+[0;36m2024-10-23 19:00:05.6802[0m [0;90mP2PServer [0mstatus
+Connections    = 32 (16 incoming)
+Peer list size = 951
+Uptime         = 5d 0h 39m 51s[0m
+[0;36m2024-10-23 19:00:05.6802[0m [0;90mUtil [0mno background jobs running[0m
+[0;36m2024-10-23 19:00:08.6244[0m [0;90mStratumServer [0mIP:port                    TLS    uptime              difficulty          hashrate       name[0m
+[0;36m2024-10-23 19:00:08.6244[0m [0;90mStratumServer [0m192.168.0.169:45144        no     14h 59m 5s          37997               1.266 KH/s     maia[0m
+[0;36m2024-10-23 19:00:08.6244[0m [0;90mStratumServer [0m192.168.0.192:58654        no     14h 59m 7s          19744               658 H/s        brat[0m
+[0;36m2024-10-23 19:00:08.6244[0m [0;90mStratumServer [0m192.168.0.176:45460        no     14h 59m 7s          47775               1.592 KH/s     kermit[0m
+[0;36m2024-10-23 19:00:08.6244[0m [0;90mStratumServer [0m192.168.0.220:34366        no     14h 59m 7s          25521               850 H/s        phoebe[0m
+[0;36m2024-10-23 19:00:08.6244[0m [0;90mStratumServer [0m192.168.0.244:38026        no     5d 0h 39m 47s       6201                208 H/s        bingo[0m
+[0;36m2024-10-23 19:00:08.6244[0m [0;90mStratumServer [0m192.168.0.86:51218         no     5d 0h 39m 47s       46884               1.562 KH/s     sally[0m
+[0;36m2024-10-23 19:00:08.6244[0m [0;90mStratumServer [0m192.168.0.27:33002         no     5d 0h 39m 47s       24654               821 H/s        paris[0m
+[0;36m2024-10-23 19:00:08.6244[0m [0;90mStratumServer [0mTotal: 7 workers[0m
+[0;36m2024-10-23 19:50:11.2343[0m [0;90mSideChain [0mstatus
+Monero node               = 192.168.0.176:20081:ZMQ:20083
+Main chain height         = 3265547
+Main chain hashrate       = 2.766 GH/s
+Side chain ID             = mini
+Side chain height         = 8999188
+Side chain hashrate       = 11.086 MH/s
+Your hashrate (pool-side) = 4.956 KH/s
+PPLNS window              = 2160 blocks (+71 uncles, 0 orphans)
+PPLNS window duration     = 6h 14m 41s
+Your wallet address       = 48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG
+Your shares               = 1 blocks (+0 uncles, 0 orphans)
+Your shares position      = [...........1..................]
+Block reward share        = 0.045% (0.000268337834 XMR)[0m
+[0;36m2024-10-23 19:50:11.2343[0m [0;90mStratumServer [0mstatus
+Hashrate (15m est) = 6.719 KH/s
+Hashrate (1h  est) = 6.552 KH/s
+Hashrate (24h est) = 6.923 KH/s
+Total hashes       = 3008793958
+Shares found       = 29
+Average effort     = 88.009%
+Current effort     = 52.935%
+Connections        = 7 (7 incoming)[0m
+[0;36m2024-10-23 19:50:11.2344[0m [0;90mP2PServer [0mstatus
+Connections    = 32 (16 incoming)
+Peer list size = 964
+Uptime         = 5d 1h 29m 56s[0m
+[0;36m2024-10-23 19:50:11.2344[0m [0;90mUtil [0mno background jobs running[0m
+[0;36m2024-10-23 19:50:12.7612[0m [0;90mStratumServer [0mIP:port                    TLS    uptime              difficulty          hashrate       name[0m
+[0;36m2024-10-23 19:50:12.7614[0m [0;90mStratumServer [0m192.168.0.169:45144        no     15h 49m 9s          41290               1.376 KH/s     maia[0m
+[0;36m2024-10-23 19:50:12.7615[0m [0;90mStratumServer [0m192.168.0.192:58654        no     15h 49m 11s         20300               676 H/s        brat[0m
+[0;36m2024-10-23 19:50:12.7616[0m [0;90mStratumServer [0m192.168.0.176:45460        no     15h 49m 11s         48640               1.621 KH/s     kermit[0m
+[0;36m2024-10-23 19:50:12.7617[0m [0;90mStratumServer [0m192.168.0.220:34366        no     15h 49m 11s         21136               704 H/s        phoebe[0m
+[0;36m2024-10-23 19:50:12.7618[0m [0;90mStratumServer [0m192.168.0.244:38026        no     5d 1h 29m 51s       9200                306 H/s        bingo[0m
+[0;36m2024-10-23 19:50:12.7619[0m [0;90mStratumServer [0m192.168.0.86:51218         no     5d 1h 29m 51s       40164               1.338 KH/s     sally[0m
+[0;36m2024-10-23 19:50:12.7620[0m [0;90mStratumServer [0m192.168.0.27:33002         no     5d 1h 29m 51s       21232               707 H/s        paris[0m
+[0;36m2024-10-23 19:50:12.7621[0m [0;90mStratumServer [0mTotal: 7 workers[0m
+[0;36m2024-10-23 19:57:26.8161[0m [0;90mStratumServer [0m[0;32mSHARE FOUND: mainchain height 3265552, sidechain height 8999238, diff 111368425, client 192.168.0.86:51218, user sally, effort 55.566%[0m
+[0;36m2024-10-23 21:09:41.7166[0m [0;90mSideChain [0mstatus
+Monero node               = 192.168.0.176:20081:ZMQ:20083
+Main chain height         = 3265593
+Main chain hashrate       = 2.750 GH/s
+Side chain ID             = mini
+Side chain height         = 8999603
+Side chain hashrate       = 11.455 MH/s
+Your hashrate (pool-side) = 10.244 KH/s
+PPLNS window              = 2160 blocks (+65 uncles, 1 orphans)
+PPLNS window duration     = 6h 2m 29s
+Your wallet address       = 48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG
+Your shares               = 2 blocks (+0 uncles, 0 orphans)
+Your shares position      = [....1............1............]
+Block reward share        = 0.089% (0.000536794093 XMR)[0m
+[0;36m2024-10-23 21:09:41.7172[0m [0;90mStratumServer [0mstatus
+Hashrate (15m est) = 6.700 KH/s
+Hashrate (1h  est) = 6.788 KH/s
+Hashrate (24h est) = 6.922 KH/s
+Total hashes       = 3041909697
+Shares found       = 30
+Average effort     = 86.966%
+Current effort     = 26.116%
+Connections        = 7 (7 incoming)[0m
+[0;36m2024-10-23 21:09:41.7172[0m [0;90mP2PServer [0mstatus
+Connections    = 32 (16 incoming)
+Peer list size = 954
+Uptime         = 5d 2h 49m 27s[0m
+[0;36m2024-10-23 21:09:41.7172[0m [0;90mUtil [0mno background jobs running[0m
+[0;36m2024-10-23 21:09:41.7176[0m [0;90mStratumServer [0mIP:port                    TLS    uptime              difficulty          hashrate       name[0m
+[0;36m2024-10-23 21:09:41.7178[0m [0;90mStratumServer [0m192.168.0.169:45144        no     17h 8m 38s          47388               1.579 KH/s     maia[0m
+[0;36m2024-10-23 21:09:41.7179[0m [0;90mStratumServer [0m192.168.0.192:58654        no     17h 8m 40s          20989               699 H/s        brat[0m
+[0;36m2024-10-23 21:09:41.7182[0m [0;90mStratumServer [0m192.168.0.176:45460        no     17h 8m 40s          53540               1.784 KH/s     kermit[0m
+[0;36m2024-10-23 21:09:41.7184[0m [0;90mStratumServer [0m192.168.0.220:34366        no     17h 8m 40s          22928               764 H/s        phoebe[0m
+[0;36m2024-10-23 21:09:41.7187[0m [0;90mStratumServer [0m192.168.0.244:38026        no     5d 2h 49m 20s       7323                244 H/s        bingo[0m
+[0;36m2024-10-23 21:09:41.7189[0m [0;90mStratumServer [0m192.168.0.86:51218         no     5d 2h 49m 20s       47214               1.573 KH/s     sally[0m
+[0;36m2024-10-23 21:09:41.7191[0m [0;90mStratumServer [0m192.168.0.27:33002         no     5d 2h 49m 20s       26496               883 H/s        paris[0m
+[0;36m2024-10-23 21:09:41.7193[0m [0;90mStratumServer [0mTotal: 7 workers[0m
+[0;36m2024-10-23 22:55:33.3332[0m [0;90mStratumServer [0m[0;32mSHARE FOUND: mainchain height 3265649, sidechain height 9000244, diff 113217611, client 192.168.0.169:45144, user maia, effort 65.748%[0m
+[0;36m2024-10-23 22:56:19.2804[0m [0;90mSideChain [0m[0;92madd_external_block: block 5ae1f56ccf4a6d1f3acf3853a25e53c746e9da90c1e751eabd05ec62e010a704 has enough PoW for Monero network, submitting it[0m
+[0;36m2024-10-23 22:56:19.2860[0m [0;90mP2Pool [0m[0;92msubmit_block: height = 3265649, external blob (24888 bytes)[0m
+[0;36m2024-10-23 22:56:19.4764[0m [0;90mP2Pool [0m[0;92mBLOCK FOUND: main chain block at height 3265649 was mined by someone else in this p2pool
+-----------------------------------------------------------------------------------------------
+| ######   #        #######   #####   #    #      #######  #######  #     #  #     #  ######  |
+| #     #  #        #     #  #     #  #   #       #        #     #  #     #  ##    #  #     # |
+| #     #  #        #     #  #        #  #        #        #     #  #     #  # #   #  #     # |
+| ######   #        #     #  #        ###         #####    #     #  #     #  #  #  #  #     # |
+| #     #  #        #     #  #        #  #        #        #     #  #     #  #   # #  #     # |
+| #     #  #        #     #  #     #  #   #       #        #     #  #     #  #    ##  #     # |
+| ######   #######  #######   #####   #    #      #        #######   #####   #     #  ######  |
+-----------------------------------------------------------------------------------------------[0m
+[0;36m2024-10-23 22:56:19.4767[0m [0;90mP2Pool [0m[0;96mYour wallet [0;92m48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG[0;96m got a payout of [0;92m0.000807199560 XMR[0;96m in block [0;92m3265649[0m
+[0;36m2024-10-23 22:56:20.8636[0m [0;90mP2Pool [0m[0;92msubmit_block: BLOCK ACCEPTED at height 3265649 and difficulty = 339050660969[0m
+[0;36m2024-10-24 01:00:04.2237[0m [0;90mSideChain [0m[0;92madd_external_block: block 51ccbfb6c163ba57ab01f93110504b52d7059cfa9f0cccbf80fe2ae6f7f3a2c5 has enough PoW for Monero network, submitting it[0m
+[0;36m2024-10-24 01:00:04.2275[0m [0;90mP2Pool [0m[0;92msubmit_block: height = 3265718, external blob (24040 bytes)[0m
+[0;36m2024-10-24 01:00:04.4007[0m [0;90mP2Pool [0m[0;92mBLOCK FOUND: main chain block at height 3265718 was mined by someone else in this p2pool
+-----------------------------------------------------------------------------------------------
+| ######   #        #######   #####   #    #      #######  #######  #     #  #     #  ######  |
+| #     #  #        #     #  #     #  #   #       #        #     #  #     #  ##    #  #     # |
+| #     #  #        #     #  #        #  #        #        #     #  #     #  # #   #  #     # |
+| ######   #        #     #  #        ###         #####    #     #  #     #  #  #  #  #     # |
+| #     #  #        #     #  #        #  #        #        #     #  #     #  #   # #  #     # |
+| #     #  #        #     #  #     #  #   #       #        #     #  #     #  #    ##  #     # |
+| ######   #######  #######   #####   #    #      #        #######   #####   #     #  ######  |
+-----------------------------------------------------------------------------------------------[0m
+[0;36m2024-10-24 01:00:04.4007[0m [0;90mP2Pool [0m[0;96mYour wallet [0;92m48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG[0;96m got a payout of [0;92m0.000534095102 XMR[0;96m in block [0;92m3265718[0m
+[0;36m2024-10-24 01:00:04.9513[0m [0;90mP2Pool [0m[0;92msubmit_block: BLOCK ACCEPTED at height 3265718 and difficulty = 347881340476[0m
+[0;36m2024-10-24 01:25:44.3754[0m [0;90mSideChain [0mstatus
+Monero node               = 192.168.0.176:20081:ZMQ:20083
+Main chain height         = 3265738
+Main chain hashrate       = 2.946 GH/s
+Side chain ID             = mini
+Side chain height         = 9001123
+Side chain hashrate       = 11.315 MH/s
+Your hashrate (pool-side) = 10.057 KH/s
+PPLNS window              = 2160 blocks (+71 uncles, 1 orphans)
+PPLNS window duration     = 6h 12m 10s
+Your wallet address       = 48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG
+Your shares               = 2 blocks (+0 uncles, 0 orphans)
+Your shares position      = [...........1.............1....]
+Block reward share        = 0.089% (0.000533459717 XMR)[0m
+[0;36m2024-10-24 01:25:44.3755[0m [0;90mStratumServer [0mstatus
+Hashrate (15m est) = 7.038 KH/s
+Hashrate (1h  est) = 6.898 KH/s
+Hashrate (24h est) = 6.945 KH/s
+Total hashes       = 3149387494
+Shares found       = 31
+Average effort     = 86.294%
+Current effort     = 55.639%
+Connections        = 7 (7 incoming)[0m
+[0;36m2024-10-24 01:25:44.3755[0m [0;90mP2PServer [0mstatus
+Connections    = 32 (16 incoming)
+Peer list size = 959
+Uptime         = 5d 7h 5m 29s[0m
+[0;36m2024-10-24 01:25:44.3755[0m [0;90mUtil [0mno background jobs running[0m
+[0;36m2024-10-24 01:25:44.3759[0m [0;90mStratumServer [0mIP:port                    TLS    uptime              difficulty          hashrate       name[0m
+[0;36m2024-10-24 01:25:44.3760[0m [0;90mStratumServer [0m192.168.0.169:45144        no     21h 24m 40s         52333               1.744 KH/s     maia[0m
+[0;36m2024-10-24 01:25:44.3761[0m [0;90mStratumServer [0m192.168.0.192:58654        no     21h 24m 42s         15463               515 H/s        brat[0m
+[0;36m2024-10-24 01:25:44.3762[0m [0;90mStratumServer [0m192.168.0.176:45460        no     21h 24m 42s         44467               1.482 KH/s     kermit[0m
+[0;36m2024-10-24 01:25:44.3763[0m [0;90mStratumServer [0m192.168.0.220:34366        no     21h 24m 42s         30345               1.011 KH/s     phoebe[0m
+[0;36m2024-10-24 01:25:44.3765[0m [0;90mStratumServer [0m192.168.0.244:38026        no     5d 7h 5m 22s        6367                212 H/s        bingo[0m
+[0;36m2024-10-24 01:25:44.3766[0m [0;90mStratumServer [0m192.168.0.86:51218         no     5d 7h 5m 22s        41535               1.384 KH/s     sally[0m
+[0;36m2024-10-24 01:25:44.3768[0m [0;90mStratumServer [0m192.168.0.27:33002         no     5d 7h 5m 22s        22184               739 H/s        paris[0m
+[0;36m2024-10-24 01:25:44.3770[0m [0;90mStratumServer [0mTotal: 7 workers[0m
+[0;36m2024-10-24 03:54:39.7218[0m [0;90mStratumServer [0m[0;32mSHARE FOUND: mainchain height 3265812, sidechain height 9001945, diff 113819565, client 192.168.0.176:45460, user kermit, effort 110.220%[0m
+[0;36m2024-10-24 04:15:07.5208[0m [0;90mSideChain [0mstatus
+Monero node               = 192.168.0.176:20081:ZMQ:20083
+Main chain height         = 3265822
+Main chain hashrate       = 2.998 GH/s
+Side chain ID             = mini
+Side chain height         = 9002060
+Side chain hashrate       = 11.185 MH/s
+Your hashrate (pool-side) = 10.023 KH/s
+PPLNS window              = 2160 blocks (+60 uncles, 1 orphans)
+PPLNS window duration     = 6h 17m 29s
+Your wallet address       = 48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG
+Your shares               = 2 blocks (+0 uncles, 0 orphans)
+Your shares position      = [.1......................1.....]
+Block reward share        = 0.090% (0.000540243757 XMR)[0m
+[0;36m2024-10-24 04:15:07.5208[0m [0;90mStratumServer [0mstatus
+Hashrate (15m est) = 6.337 KH/s
+Hashrate (1h  est) = 6.796 KH/s
+Hashrate (24h est) = 6.939 KH/s
+Total hashes       = 3219257052
+Shares found       = 32
+Average effort     = 87.032%
+Current effort     = 6.593%
+Connections        = 7 (7 incoming)[0m
+[0;36m2024-10-24 04:15:07.5208[0m [0;90mP2PServer [0mstatus
+Connections    = 32 (16 incoming)
+Peer list size = 963
+Uptime         = 5d 9h 54m 53s[0m
+[0;36m2024-10-24 04:15:07.5208[0m [0;90mUtil [0mno background jobs running[0m
+[0;36m2024-10-24 04:15:07.5216[0m [0;90mStratumServer [0mIP:port                    TLS    uptime              difficulty          hashrate       name[0m
+[0;36m2024-10-24 04:15:07.5219[0m [0;90mStratumServer [0m192.168.0.176:46378        no     0h 14m 6s           49090               1.636 KH/s     kermit[0m
+[0;36m2024-10-24 04:15:07.5221[0m [0;90mStratumServer [0m192.168.0.192:41018        no     0h 14m 6s           13569               452 H/s        brat[0m
+[0;36m2024-10-24 04:15:07.5223[0m [0;90mStratumServer [0m192.168.0.169:35622        no     0h 14m 7s           48485               1.616 KH/s     maia[0m
+[0;36m2024-10-24 04:15:07.5225[0m [0;90mStratumServer [0m192.168.0.220:43362        no     0h 14m 7s           26468               882 H/s        phoebe[0m
+[0;36m2024-10-24 04:15:07.5227[0m [0;90mStratumServer [0m192.168.0.244:38026        no     5d 9h 54m 46s       6442                214 H/s        bingo[0m
+[0;36m2024-10-24 04:15:07.5228[0m [0;90mStratumServer [0m192.168.0.86:51218         no     5d 9h 54m 46s       43611               1.453 KH/s     sally[0m
+[0;36m2024-10-24 04:15:07.5230[0m [0;90mStratumServer [0m192.168.0.27:33002         no     5d 9h 54m 46s       24368               812 H/s        paris[0m
+[0;36m2024-10-24 04:15:07.5232[0m [0;90mStratumServer [0mTotal: 7 workers[0m
+[0;36m2024-10-24 04:29:46.7123[0m [0;90mStratumServer [0m[0;32mSHARE FOUND: mainchain height 3265829, sidechain height 9002139, diff 112075919, client 192.168.0.176:46378, user kermit, effort 12.567%[0m
+[0;36m2024-10-24 06:17:21.6406[0m [0;90mStratumServer [0m[0;32mSHARE FOUND: mainchain height 3265871, sidechain height 9002786, diff 108878765, client 192.168.0.192:41018, user brat, effort 40.166%[0m
+[0;36m2024-10-24 06:34:05.2225[0m [0;90mSideChain [0m[0;92madd_external_block: block 3b160df01f6bd187a0521f6782c1061799fa453a42f3e0e27b2de85336da094c has enough PoW for Monero network, submitting it[0m
+[0;36m2024-10-24 06:34:05.2266[0m [0;90mP2Pool [0m[0;92msubmit_block: height = 3265879, external blob (24413 bytes)[0m
+[0;36m2024-10-24 06:34:05.3971[0m [0;90mP2Pool [0m[0;92mBLOCK FOUND: main chain block at height 3265879 was mined by someone else in this p2pool
+-----------------------------------------------------------------------------------------------
+| ######   #        #######   #####   #    #      #######  #######  #     #  #     #  ######  |
+| #     #  #        #     #  #     #  #   #       #        #     #  #     #  ##    #  #     # |
+| #     #  #        #     #  #        #  #        #        #     #  #     #  # #   #  #     # |
+| ######   #        #     #  #        ###         #####    #     #  #     #  #  #  #  #     # |
+| #     #  #        #     #  #        #  #        #        #     #  #     #  #   # #  #     # |
+| #     #  #        #     #  #     #  #   #       #        #     #  #     #  #    ##  #     # |
+| ######   #######  #######   #####   #    #      #        #######   #####   #     #  ######  |
+-----------------------------------------------------------------------------------------------[0m
+[0;36m2024-10-24 06:34:05.3977[0m [0;90mP2Pool [0m[0;96mYour wallet [0;92m48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG[0;96m got a payout of [0;92m0.000803569203 XMR[0;96m in block [0;92m3265879[0m
+[0;36m2024-10-24 06:34:05.8599[0m [0;90mP2Pool [0m[0;92msubmit_block: BLOCK ACCEPTED at height 3265879 and difficulty = 355895691077[0m
+[0;36m2024-10-24 11:11:16.3697[0m [0;90mStratumServer [0m[0;32mSHARE FOUND: mainchain height 3266013, sidechain height 9004521, diff 118656784, client 192.168.0.86:51218, user sally, effort 104.023%[0m
+[0;36m2024-10-24 12:07:55.0818[0m [0;90mSideChain [0m[0;92madd_external_block: block b2793a500d01bd7f825cef03a2b5284a738f23dfcee4e2cb3116ee4932628d2b has enough PoW for Monero network, submitting it[0m
+[0;36m2024-10-24 12:07:55.0862[0m [0;90mP2Pool [0m[0;92msubmit_block: height = 3266033, external blob (24500 bytes)[0m
+[0;36m2024-10-24 12:07:55.3272[0m [0;90mP2Pool [0m[0;92mBLOCK FOUND: main chain block at height 3266033 was mined by someone else in this p2pool
+-----------------------------------------------------------------------------------------------
+| ######   #        #######   #####   #    #      #######  #######  #     #  #     #  ######  |
+| #     #  #        #     #  #     #  #   #       #        #     #  #     #  ##    #  #     # |
+| #     #  #        #     #  #        #  #        #        #     #  #     #  # #   #  #     # |
+| ######   #        #     #  #        ###         #####    #     #  #     #  #  #  #  #     # |
+| #     #  #        #     #  #        #  #        #        #     #  #     #  #   # #  #     # |
+| #     #  #        #     #  #     #  #   #       #        #     #  #     #  #    ##  #     # |
+| ######   #######  #######   #####   #    #      #        #######   #####   #     #  ######  |
+-----------------------------------------------------------------------------------------------[0m
+[0;36m2024-10-24 12:07:55.3275[0m [0;90mP2Pool [0m[0;96mYour wallet [0;92m48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG[0;96m got a payout of [0;92m0.000544807030 XMR[0;96m in block [0;92m3266033[0m
+[0;36m2024-10-24 12:07:56.5265[0m [0;90mP2Pool [0m[0;92msubmit_block: BLOCK ACCEPTED at height 3266033 and difficulty = 346414498963[0m
+[0;36m2024-10-24 13:53:08.8267[0m [0;90mSideChain [0m[0;92madd_external_block: block 9c346feb425816c134ebdf64c4c8df0ee840ed8e03c6b597e40865af5ba874a0 has enough PoW for Monero network, submitting it[0m
+[0;36m2024-10-24 13:53:08.8316[0m [0;90mP2Pool [0m[0;92msubmit_block: height = 3266082, external blob (26076 bytes)[0m
+[0;36m2024-10-24 13:53:09.0884[0m [0;90mP2Pool [0m[0;92mBLOCK FOUND: main chain block at height 3266082 was mined by someone else in this p2pool
+-----------------------------------------------------------------------------------------------
+| ######   #        #######   #####   #    #      #######  #######  #     #  #     #  ######  |
+| #     #  #        #     #  #     #  #   #       #        #     #  #     #  ##    #  #     # |
+| #     #  #        #     #  #        #  #        #        #     #  #     #  # #   #  #     # |
+| ######   #        #     #  #        ###         #####    #     #  #     #  #  #  #  #     # |
+| #     #  #        #     #  #        #  #        #        #     #  #     #  #   # #  #     # |
+| #     #  #        #     #  #     #  #   #       #        #     #  #     #  #    ##  #     # |
+| ######   #######  #######   #####   #    #      #        #######   #####   #     #  ######  |
+-----------------------------------------------------------------------------------------------[0m
+[0;36m2024-10-24 13:53:09.0886[0m [0;90mP2Pool [0m[0;96mYour wallet [0;92m48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG[0;96m got a payout of [0;92m0.000285303193 XMR[0;96m in block [0;92m3266082[0m
+[0;36m2024-10-24 13:53:12.0681[0m [0;90mP2Pool [0m[0;92msubmit_block: BLOCK ACCEPTED at height 3266082 and difficulty = 347642108758[0m
+[0;36m2024-10-24 13:55:34.7666[0m [0;90mSideChain [0mstatus
+Monero node               = 192.168.0.176:20081:ZMQ:20083
+Main chain height         = 3266083
+Main chain hashrate       = 2.898 GH/s
+Side chain ID             = mini
+Side chain height         = 9005473
+Side chain hashrate       = 11.321 MH/s
+Your hashrate (pool-side) = 5.227 KH/s
+PPLNS window              = 2160 blocks (+68 uncles, 1 orphans)
+PPLNS window duration     = 6h 18m 20s
+Your wallet address       = 48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG
+Your shares               = 1 blocks (+0 uncles, 0 orphans)
+Your shares position      = [............1.................]
+Block reward share        = 0.046% (0.000290883753 XMR)[0m
+[0;36m2024-10-24 13:55:34.7666[0m [0;90mStratumServer [0mstatus
+Hashrate (15m est) = 6.873 KH/s
+Hashrate (1h  est) = 6.827 KH/s
+Hashrate (24h est) = 6.951 KH/s
+Total hashes       = 3460809541
+Shares found       = 35
+Average effort     = 84.195%
+Current effort     = 59.782%
+Connections        = 7 (7 incoming)[0m
+[0;36m2024-10-24 13:55:34.7667[0m [0;90mP2PServer [0mstatus
+Connections    = 32 (16 incoming)
+Peer list size = 951
+Uptime         = 5d 19h 35m 20s[0m
+[0;36m2024-10-24 13:55:34.7667[0m [0;90mUtil [0mno background jobs running[0m
+[0;36m2024-10-24 13:55:34.7671[0m [0;90mStratumServer [0mIP:port                    TLS    uptime              difficulty          hashrate       name[0m
+[0;36m2024-10-24 13:55:34.7671[0m [0;90mStratumServer [0m192.168.0.176:46378        no     9h 54m 33s          44476               1.482 KH/s     kermit[0m
+[0;36m2024-10-24 13:55:34.7671[0m [0;90mStratumServer [0m192.168.0.192:41018        no     9h 54m 33s          23104               770 H/s        brat[0m
+[0;36m2024-10-24 13:55:34.7671[0m [0;90mStratumServer [0m192.168.0.169:35622        no     9h 54m 34s          54484               1.816 KH/s     maia[0m
+[0;36m2024-10-24 13:55:34.7671[0m [0;90mStratumServer [0m192.168.0.220:43362        no     9h 54m 34s          20884               677 H/s        phoebe[0m
+[0;36m2024-10-24 13:55:34.7671[0m [0;90mStratumServer [0m192.168.0.244:38026        no     5d 19h 35m 13s      7954                265 H/s        bingo[0m
+[0;36m2024-10-24 13:55:34.7671[0m [0;90mStratumServer [0m192.168.0.86:51218         no     5d 19h 35m 13s      44334               1.477 KH/s     sally[0m
+[0;36m2024-10-24 13:55:34.7671[0m [0;90mStratumServer [0m192.168.0.27:33002         no     5d 19h 35m 13s      18960               632 H/s        paris[0m
+[0;36m2024-10-24 13:55:34.7671[0m [0;90mStratumServer [0mTotal: 7 workers[0m
+[0;36m2024-10-24 16:19:04.7956[0m [0;90mSideChain [0mstatus
+Monero node               = 192.168.0.176:20081:ZMQ:20083
+Main chain height         = 3266156
+Main chain hashrate       = 2.907 GH/s
+Side chain ID             = mini
+Side chain height         = 9006368
+Side chain hashrate       = 11.566 MH/s
+Your hashrate (pool-side) = 5.352 KH/s
+PPLNS window              = 2160 blocks (+64 uncles, 1 orphans)
+PPLNS window duration     = 6h 9m 26s
+Your wallet address       = 48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG
+Your shares               = 1 blocks (+0 uncles, 0 orphans)
+Your shares position      = [........................1.....]
+Block reward share        = 0.046% (0.000295492250 XMR)[0m
+[0;36m2024-10-24 16:19:04.7957[0m [0;90mStratumServer [0mstatus
+Hashrate (15m est) = 7.148 KH/s
+Hashrate (1h  est) = 6.722 KH/s
+Hashrate (24h est) = 6.889 KH/s
+Total hashes       = 3516934904
+Shares found       = 35
+Average effort     = 84.195%
+Current effort     = 107.043%
+Connections        = 7 (7 incoming)[0m
+[0;36m2024-10-24 16:19:04.7962[0m [0;90mP2PServer [0mstatus
+Connections    = 32 (16 incoming)
+Peer list size = 976
+Uptime         = 5d 21h 58m 50s[0m
+[0;36m2024-10-24 16:19:04.7962[0m [0;90mUtil [0mno background jobs running[0m
+[0;36m2024-10-24 16:19:04.7965[0m [0;90mStratumServer [0mIP:port                    TLS    uptime              difficulty          hashrate       name[0m
+[0;36m2024-10-24 16:19:04.7967[0m [0;90mStratumServer [0m192.168.0.176:46378        no     12h 18m 3s          48557               1.618 KH/s     kermit[0m
+[0;36m2024-10-24 16:19:04.7969[0m [0;90mStratumServer [0m192.168.0.192:41018        no     12h 18m 3s          19820               660 H/s        brat[0m
+[0;36m2024-10-24 16:19:04.7973[0m [0;90mStratumServer [0m192.168.0.169:35622        no     12h 18m 4s          57581               1.919 KH/s     maia[0m
+[0;36m2024-10-24 16:19:04.7975[0m [0;90mStratumServer [0m192.168.0.220:43362        no     12h 18m 4s          25023               834 H/s        phoebe[0m
+[0;36m2024-10-24 16:19:04.7977[0m [0;90mStratumServer [0m192.168.0.244:38026        no     5d 21h 58m 43s      7268                242 H/s        bingo[0m
+[0;36m2024-10-24 16:19:04.7979[0m [0;90mStratumServer [0m192.168.0.86:51218         no     5d 21h 58m 43s      41983               1.399 KH/s     sally[0m
+[0;36m2024-10-24 16:19:04.7980[0m [0;90mStratumServer [0m192.168.0.27:33002         no     5d 21h 58m 43s      19029               634 H/s        paris[0m
+[0;36m2024-10-24 16:19:04.7982[0m [0;90mStratumServer [0mTotal: 7 workers[0m
+[0;36m2024-10-24 21:00:41.9156[0m [0;90mStratumServer [0m[0;32mSHARE FOUND: mainchain height 3266312, sidechain height 9007978, diff 120937393, client 192.168.0.176:46378, user kermit, effort 200.197%[0m
+[0;36m2024-10-24 22:09:48.6414[0m [0;90mStratumServer [0m[0;32mSHARE FOUND: mainchain height 3266339, sidechain height 9008386, diff 114865516, client 192.168.0.86:51218, user sally, effort 25.100%[0m
+[0;36m2024-10-24 22:19:18.6683[0m [0;90mSideChain [0m[0;92madd_external_block: block b0a133a8bf1b9cfecff2840de47d7af449e9244823dc7de0ea1be66c0b5edb0a has enough PoW for Monero height 3266343, submitting it[0m
+[0;36m2024-10-24 22:19:18.6710[0m [0;90mP2Pool [0m[0;92msubmit_block: height = 3266344, external blob (24613 bytes)[0m
+[0;36m2024-10-24 23:42:53.6232[0m [0;90mSideChain [0m[0;92madd_external_block: block 4bbb325fc555bbad9105c1b86d308a3611a90fb7798cddb499d5f4570445bdf6 has enough PoW for Monero network, submitting it[0m
+[0;36m2024-10-24 23:42:53.6275[0m [0;90mP2Pool [0m[0;92msubmit_block: height = 3266387, external blob (23321 bytes)[0m
+[0;36m2024-10-24 23:42:53.8157[0m [0;90mP2Pool [0m[0;92mBLOCK FOUND: main chain block at height 3266387 was mined by someone else in this p2pool
+-----------------------------------------------------------------------------------------------
+| ######   #        #######   #####   #    #      #######  #######  #     #  #     #  ######  |
+| #     #  #        #     #  #     #  #   #       #        #     #  #     #  ##    #  #     # |
+| #     #  #        #     #  #        #  #        #        #     #  #     #  # #   #  #     # |
+| ######   #        #     #  #        ###         #####    #     #  #     #  #  #  #  #     # |
+| #     #  #        #     #  #        #  #        #        #     #  #     #  #   # #  #     # |
+| #     #  #        #     #  #     #  #   #       #        #     #  #     #  #    ##  #     # |
+| ######   #######  #######   #####   #    #      #        #######   #####   #     #  ######  |
+-----------------------------------------------------------------------------------------------[0m
+[0;36m2024-10-24 23:42:53.8166[0m [0;90mP2Pool [0m[0;96mYour wallet [0;92m48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG[0;96m got a payout of [0;92m0.000544986908 XMR[0;96m in block [0;92m3266387[0m
+[0;36m2024-10-24 23:42:54.7680[0m [0;90mP2Pool [0m[0;92msubmit_block: BLOCK ACCEPTED at height 3266387 and difficulty = 348336279654[0m
+[0;36m2024-10-25 04:40:14.6940[0m [0;90mStratumServer [0m[0;32mSHARE FOUND: mainchain height 3266549, sidechain height 9010661, diff 118446280, client 192.168.0.86:51218, user sally, effort 129.016%[0m
+[0;36m2024-10-25 06:50:25.5274[0m [0;90mRandomX_Hasher [0mnew seed [0;94mb02d1cd0b7e58ec21c440af3a94036dba4fc10aae217559bfabc3b2a8c02906c[0m
+[0;36m2024-10-25 06:50:28.2515[0m [0;90mRandomX_Hasher [0m[0;96mcache updated[0m
+[0;36m2024-10-25 06:50:28.2516[0m [0;90mRandomX_Hasher [0m[0;96mrunning 2 threads to update dataset[0m
+[0;36m2024-10-25 06:50:41.1288[0m [0;90mRandomX_Hasher [0m[0;96mdataset updated[0m
+[0;36m2024-10-25 08:11:32.9120[0m [0;90mSideChain [0mstatus
+Monero node               = 192.168.0.176:20081:ZMQ:20083
+Main chain height         = 3266668
+Main chain hashrate       = 2.962 GH/s
+Side chain ID             = mini
+Side chain height         = 9011865
+Side chain hashrate       = 11.586 MH/s
+Your hashrate (pool-side) = 5.262 KH/s
+PPLNS window              = 2160 blocks (+55 uncles, 0 orphans)
+PPLNS window duration     = 6h 15m 5s
+Your wallet address       = 48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG
+Your shares               = 1 blocks (+0 uncles, 0 orphans)
+Your shares position      = [................1.............]
+Block reward share        = 0.045% (0.000272539892 XMR)[0m
+[0;36m2024-10-25 08:11:32.9120[0m [0;90mStratumServer [0mstatus
+Hashrate (15m est) = 6.260 KH/s
+Hashrate (1h  est) = 6.188 KH/s
+Hashrate (24h est) = 6.717 KH/s
+Total hashes       = 3897293712
+Shares found       = 38
+Average effort     = 87.058%
+Current effort     = 69.395%
+Connections        = 18 (18 incoming)[0m
+[0;36m2024-10-25 08:11:32.9120[0m [0;90mP2PServer [0mstatus
+Connections    = 32 (16 incoming)
+Peer list size = 947
+Uptime         = 6d 13h 51m 18s[0m
+[0;36m2024-10-25 08:11:32.9120[0m [0;90mUtil [0mno background jobs running[0m
+[0;36m2024-10-25 08:11:32.9128[0m [0;90mStratumServer [0mIP:port                    TLS    uptime              difficulty          hashrate       name[0m
+[0;36m2024-10-25 08:11:32.9130[0m [0;90mStratumServer [0m192.168.0.145:59330        no     0h 0m 11s           500002                             brat[0m
+[0;36m2024-10-25 08:11:32.9132[0m [0;90mStratumServer [0m192.168.0.139:44600        no     0h 1m 45s           7813                               brat[0m
+[0;36m2024-10-25 08:11:32.9133[0m [0;90mStratumServer [0m192.168.0.133:57754        no     0h 3m 1s            1000                               brat[0m
+[0;36m2024-10-25 08:11:32.9134[0m [0;90mStratumServer [0m192.168.0.127:34336        no     0h 4m 17s           1000                               brat[0m
+[0;36m2024-10-25 08:11:32.9135[0m [0;90mStratumServer [0m192.168.0.121:42842        no     0h 5m 34s           1000                               brat[0m
+[0;36m2024-10-25 08:11:32.9136[0m [0;90mStratumServer [0m192.168.0.116:57388        no     0h 6m 52s           1000                               brat[0m
+[0;36m2024-10-25 08:11:32.9137[0m [0;90mStratumServer [0m192.168.0.110:40502        no     0h 8m 10s           1000                               brat[0m
+[0;36m2024-10-25 08:11:32.9138[0m [0;90mStratumServer [0m192.168.0.104:39640        no     0h 9m 26s           1000                               brat[0m
+[0;36m2024-10-25 08:11:32.9139[0m [0;90mStratumServer [0m192.168.0.98:57278         no     0h 10m 43s          1000                               brat[0m
+[0;36m2024-10-25 08:11:32.9142[0m [0;90mStratumServer [0m192.168.0.93:57360         no     0h 12m 1s           1000                               brat[0m
+[0;36m2024-10-25 08:11:32.9143[0m [0;90mStratumServer [0m192.168.0.87:49840         no     0h 13m 23s          1000                               brat[0m
+[0;36m2024-10-25 08:11:32.9143[0m [0;90mStratumServer [0m192.168.0.81:33356         no     0h 14m 39s          1000                               brat[0m
+[0;36m2024-10-25 08:11:32.9144[0m [0;90mStratumServer [0m192.168.0.169:35552        no     4h 10m 29s          49792               1.659 KH/s     maia[0m
+[0;36m2024-10-25 08:11:32.9145[0m [0;90mStratumServer [0m192.168.0.220:38338        no     4h 10m 31s          27660               922 H/s        phoebe[0m
+[0;36m2024-10-25 08:11:32.9146[0m [0;90mStratumServer [0m192.168.0.176:49184        no     4h 10m 31s          42647               1.421 KH/s     kermit[0m
+[0;36m2024-10-25 08:11:32.9147[0m [0;90mStratumServer [0m192.168.0.244:38026        no     6d 13h 51m 11s      8846                294 H/s        bingo[0m
+[0;36m2024-10-25 08:11:32.9148[0m [0;90mStratumServer [0m192.168.0.86:51218         no     6d 13h 51m 11s      49626               1.654 KH/s     sally[0m
+[0;36m2024-10-25 08:11:32.9149[0m [0;90mStratumServer [0m192.168.0.27:33002         no     6d 13h 51m 11s      18890               629 H/s        paris[0m
+[0;36m2024-10-25 08:11:32.9150[0m [0;90mStratumServer [0mTotal: 18 workers[0m
+[0;36m2024-10-25 09:15:00.7010[0m [0;90mStratumServer [0m[0;32mSHARE FOUND: mainchain height 3266703, sidechain height 9012228, diff 116586961, client 192.168.0.86:51218, user sally, effort 89.296%[0m
+[0;36m2024-10-25 11:23:31.9037[0m [0;90mStratumServer [0m[0;32mSHARE FOUND: mainchain height 3266768, sidechain height 9013022, diff 114422981, client 192.168.0.176:49184, user kermit, effort 42.401%[0m
+[0;36m2024-10-25 13:14:54.6134[0m [0;90mSideChain [0m[0;92madd_external_block: block 7be17078c987b58f8cf4ba697480920821204a37bcc4bd8a07a027d217553733 has enough PoW for Monero network, submitting it[0m
+[0;36m2024-10-25 13:14:54.6138[0m [0;90mP2Pool [0m[0;92msubmit_block: height = 3266819, external blob (24276 bytes)[0m
+[0;36m2024-10-25 13:14:54.9434[0m [0;90mP2Pool [0m[0;92mBLOCK FOUND: main chain block at height 3266819 was mined by someone else in this p2pool
+-----------------------------------------------------------------------------------------------
+| ######   #        #######   #####   #    #      #######  #######  #     #  #     #  ######  |
+| #     #  #        #     #  #     #  #   #       #        #     #  #     #  ##    #  #     # |
+| #     #  #        #     #  #        #  #        #        #     #  #     #  # #   #  #     # |
+| ######   #        #     #  #        ###         #####    #     #  #     #  #  #  #  #     # |
+| #     #  #        #     #  #        #  #        #        #     #  #     #  #   # #  #     # |
+| #     #  #        #     #  #     #  #   #       #        #     #  #     #  #    ##  #     # |
+| ######   #######  #######   #####   #    #      #        #######   #####   #     #  ######  |
+-----------------------------------------------------------------------------------------------[0m
+[0;36m2024-10-25 13:14:54.9435[0m [0;90mP2Pool [0m[0;96mYour wallet [0;92m48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG[0;96m got a payout of [0;92m0.000547648212 XMR[0;96m in block [0;92m3266819[0m
+[0;36m2024-10-25 13:14:55.5270[0m [0;90mP2Pool [0m[0;92msubmit_block: BLOCK ACCEPTED at height 3266819 and difficulty = 373414064961[0m
+[0;36m2024-10-25 14:25:21.5135[0m [0;90mSideChain [0m[0;92madd_external_block: block c74792ddc34360a4ec815be3793f6dbc153c946c5c2fd82dd4df3a23c5d6c786 has enough PoW for Monero network, submitting it[0m
+[0;36m2024-10-25 14:25:21.5188[0m [0;90mP2Pool [0m[0;92msubmit_block: height = 3266855, external blob (28989 bytes)[0m
+[0;36m2024-10-25 14:25:21.8662[0m [0;90mP2Pool [0m[0;92mBLOCK FOUND: main chain block at height 3266855 was mined by someone else in this p2pool
+-----------------------------------------------------------------------------------------------
+| ######   #        #######   #####   #    #      #######  #######  #     #  #     #  ######  |
+| #     #  #        #     #  #     #  #   #       #        #     #  #     #  ##    #  #     # |
+| #     #  #        #     #  #        #  #        #        #     #  #     #  # #   #  #     # |
+| ######   #        #     #  #        ###         #####    #     #  #     #  #  #  #  #     # |
+| #     #  #        #     #  #        #  #        #        #     #  #     #  #   # #  #     # |
+| #     #  #        #     #  #     #  #   #       #        #     #  #     #  #    ##  #     # |
+| ######   #######  #######   #####   #    #      #        #######   #####   #     #  ######  |
+-----------------------------------------------------------------------------------------------[0m
+[0;36m2024-10-25 14:25:21.8663[0m [0;90mP2Pool [0m[0;96mYour wallet [0;92m48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG[0;96m got a payout of [0;92m0.000608759670 XMR[0;96m in block [0;92m3266855[0m
+[0;36m2024-10-25 14:25:26.4369[0m [0;90mP2Pool [0m[0;92msubmit_block: BLOCK ACCEPTED at height 3266855 and difficulty = 371424975287[0m
+[0;36m2024-10-25 15:01:55.7885[0m [0;90mStratumServer [0m[0;32mSHARE FOUND: mainchain height 3266872, sidechain height 9014272, diff 117582001, client 192.168.0.176:49184, user kermit, effort 69.725%[0m
+[0;36m2024-10-25 15:48:10.4178[0m [0;90mStratumServer [0m[0;32mSHARE FOUND: mainchain height 3266888, sidechain height 9014531, diff 116638992, client 192.168.0.86:51218, user sally, effort 14.446%[0m
+[0;36m2024-10-25 16:06:26.5474[0m [0;90mSideChain [0mstatus
+Monero node               = 192.168.0.176:20081:ZMQ:20083
+Main chain height         = 3266899
+Main chain hashrate       = 3.033 GH/s
+Side chain ID             = mini
+Side chain height         = 9014651
+Side chain hashrate       = 11.545 MH/s
+Your hashrate (pool-side) = 15.738 KH/s
+PPLNS window              = 2160 blocks (+52 uncles, 0 orphans)
+PPLNS window duration     = 6h 9m 12s
+Your wallet address       = 48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG
+Your shares               = 3 blocks (+0 uncles, 0 orphans)
+Your shares position      = [.1...1...............1........]
+Block reward share        = 0.136% (0.000817936880 XMR)[0m
+[0;36m2024-10-25 16:06:26.5474[0m [0;90mStratumServer [0mstatus
+Hashrate (15m est) = 6.911 KH/s
+Hashrate (1h  est) = 6.199 KH/s
+Hashrate (24h est) = 6.528 KH/s
+Total hashes       = 4075581018
+Shares found       = 42
+Average effort     = 83.891%
+Current effort     = 6.266%
+Connections        = 6 (6 incoming)[0m
+[0;36m2024-10-25 16:06:26.5474[0m [0;90mP2PServer [0mstatus
+Connections    = 32 (16 incoming)
+Peer list size = 962
+Uptime         = 6d 21h 46m 12s[0m
+[0;36m2024-10-25 16:06:26.5474[0m [0;90mUtil [0mno background jobs running[0m
+[0;36m2024-10-25 16:06:26.5478[0m [0;90mStratumServer [0mIP:port                    TLS    uptime              difficulty          hashrate       name[0m
+[0;36m2024-10-25 16:06:26.5480[0m [0;90mStratumServer [0m192.168.0.169:35552        no     12h 5m 23s          40126               1.337 KH/s     maia[0m
+[0;36m2024-10-25 16:06:26.5481[0m [0;90mStratumServer [0m192.168.0.220:38338        no     12h 5m 25s          22366               745 H/s        phoebe[0m
+[0;36m2024-10-25 16:06:26.5482[0m [0;90mStratumServer [0m192.168.0.176:49184        no     12h 5m 25s          51621               1.720 KH/s     kermit[0m
+[0;36m2024-10-25 16:06:26.5483[0m [0;90mStratumServer [0m192.168.0.244:38026        no     6d 21h 46m 5s       4800                160 H/s        bingo[0m
+[0;36m2024-10-25 16:06:26.5484[0m [0;90mStratumServer [0m192.168.0.86:51218         no     6d 21h 46m 5s       56434               1.881 KH/s     sally[0m
+[0;36m2024-10-25 16:06:26.5485[0m [0;90mStratumServer [0m192.168.0.27:33002         no     6d 21h 46m 5s       22980               766 H/s        paris[0m
+[0;36m2024-10-25 16:06:26.5486[0m [0;90mStratumServer [0mTotal: 6 workers[0m
+[0;36m2024-10-25 18:24:22.2220[0m [0;90mSideChain [0mstatus
+Monero node               = 192.168.0.176:20081:ZMQ:20083
+Main chain height         = 3266961
+Main chain hashrate       = 3.000 GH/s
+Side chain ID             = mini
+Side chain height         = 9015515
+Side chain hashrate       = 11.624 MH/s
+Your hashrate (pool-side) = 10.531 KH/s
+PPLNS window              = 2160 blocks (+63 uncles, 0 orphans)
+PPLNS window duration     = 6h 10m 40s
+Your wallet address       = 48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG
+Your shares               = 2 blocks (+0 uncles, 0 orphans)
+Your shares position      = [.............1..1.............]
+Block reward share        = 0.091% (0.000557787029 XMR)[0m
+[0;36m2024-10-25 18:24:22.2220[0m [0;90mStratumServer [0mstatus
+Hashrate (15m est) = 6.001 KH/s
+Hashrate (1h  est) = 6.801 KH/s
+Hashrate (24h est) = 6.478 KH/s
+Total hashes       = 4128363450
+Shares found       = 42
+Average effort     = 83.891%
+Current effort     = 51.634%
+Connections        = 7 (7 incoming)[0m
+[0;36m2024-10-25 18:24:22.2220[0m [0;90mP2PServer [0mstatus
+Connections    = 32 (16 incoming)
+Peer list size = 965
+Uptime         = 7d 0h 4m 7s[0m
+[0;36m2024-10-25 18:24:22.2220[0m [0;90mUtil [0mno background jobs running[0m
+[0;36m2024-10-25 18:24:22.2228[0m [0;90mStratumServer [0mIP:port                    TLS    uptime              difficulty          hashrate       name[0m
+[0;36m2024-10-25 18:24:22.2231[0m [0;90mStratumServer [0m192.168.0.192:32868        no     0h 37m 15s          15807               526 H/s        brat[0m
+[0;36m2024-10-25 18:24:22.2233[0m [0;90mStratumServer [0m192.168.0.169:35552        no     14h 23m 18s         47749               1.591 KH/s     maia[0m
+[0;36m2024-10-25 18:24:22.2235[0m [0;90mStratumServer [0m192.168.0.220:38338        no     14h 23m 20s         25010               833 H/s        phoebe[0m
+[0;36m2024-10-25 18:24:22.2237[0m [0;90mStratumServer [0m192.168.0.176:49184        no     14h 23m 20s         42816               1.427 KH/s     kermit[0m
+[0;36m2024-10-25 18:24:22.2238[0m [0;90mStratumServer [0m192.168.0.244:38026        no     7d 0h 4m 0s         7573                252 H/s        bingo[0m
+[0;36m2024-10-25 18:24:22.2240[0m [0;90mStratumServer [0m192.168.0.86:51218         no     7d 0h 4m 0s         49856               1.661 KH/s     sally[0m
+[0;36m2024-10-25 18:24:22.2242[0m [0;90mStratumServer [0m192.168.0.27:33002         no     7d 0h 4m 0s         21244               708 H/s        paris[0m
+[0;36m2024-10-25 18:24:22.2244[0m [0;90mStratumServer [0mTotal: 7 workers[0m
+[0;36m2024-10-25 20:06:59.9366[0m [0;90mSideChain [0mstatus
+Monero node               = 192.168.0.176:20081:ZMQ:20083
+Main chain height         = 3267004
+Main chain hashrate       = 3.017 GH/s
+Side chain ID             = mini
+Side chain height         = 9016090
+Side chain hashrate       = 11.963 MH/s
+Your hashrate (pool-side) = 10.775 KH/s
+PPLNS window              = 2160 blocks (+64 uncles, 1 orphans)
+PPLNS window duration     = 6h 2m 16s
+Your wallet address       = 48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG
+Your shares               = 2 blocks (+0 uncles, 0 orphans)
+Your shares position      = [....................1...1.....]
+Block reward share        = 0.090% (0.000562772871 XMR)[0m
+[0;36m2024-10-25 20:06:59.9366[0m [0;90mStratumServer [0mstatus
+Hashrate (15m est) = 7.836 KH/s
+Hashrate (1h  est) = 7.168 KH/s
+Hashrate (24h est) = 6.472 KH/s
+Total hashes       = 4171281829
+Shares found       = 42
+Average effort     = 83.891%
+Current effort     = 86.044%
+Connections        = 7 (7 incoming)[0m
+[0;36m2024-10-25 20:06:59.9366[0m [0;90mP2PServer [0mstatus
+Connections    = 32 (16 incoming)
+Peer list size = 963
+Uptime         = 7d 1h 46m 45s[0m
+[0;36m2024-10-25 20:06:59.9367[0m [0;90mUtil [0mno background jobs running[0m
+[0;36m2024-10-25 20:06:59.9374[0m [0;90mStratumServer [0mIP:port                    TLS    uptime              difficulty          hashrate       name[0m
+[0;36m2024-10-25 20:06:59.9376[0m [0;90mStratumServer [0m192.168.0.192:32868        no     2h 19m 53s          18418               613 H/s        brat[0m
+[0;36m2024-10-25 20:06:59.9378[0m [0;90mStratumServer [0m192.168.0.169:35552        no     16h 5m 56s          55758               1.858 KH/s     maia[0m
+[0;36m2024-10-25 20:06:59.9380[0m [0;90mStratumServer [0m192.168.0.220:38338        no     16h 5m 58s          19565               652 H/s        phoebe[0m
+[0;36m2024-10-25 20:06:59.9382[0m [0;90mStratumServer [0m192.168.0.176:49184        no     16h 5m 58s          43852               1.461 KH/s     kermit[0m
+[0;36m2024-10-25 20:06:59.9384[0m [0;90mStratumServer [0m192.168.0.244:38026        no     7d 1h 46m 38s       5375                179 H/s        bingo[0m
+[0;36m2024-10-25 20:06:59.9386[0m [0;90mStratumServer [0m192.168.0.86:51218         no     7d 1h 46m 38s       47709               1.590 KH/s     sally[0m
+[0;36m2024-10-25 20:06:59.9388[0m [0;90mStratumServer [0m192.168.0.27:33002         no     7d 1h 46m 38s       21723               724 H/s        paris[0m
+[0;36m2024-10-25 20:06:59.9389[0m [0;90mStratumServer [0mTotal: 7 workers[0m
+[0;36m2024-10-25 22:18:50.1380[0m [0;90mSideChain [0mstatus
+Monero node               = 192.168.0.176:20081:ZMQ:20083
+Main chain height         = 3267078
+Main chain hashrate       = 2.987 GH/s
+Side chain ID             = mini
+Side chain height         = 9016795
+Side chain hashrate       = 11.664 MH/s
+PPLNS window              = 2160 blocks (+73 uncles, 1 orphans)
+PPLNS window duration     = 6h 15m 10s
+Your wallet address       = 48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG
+Your shares               = 0 blocks (+0 uncles, 0 orphans)
+Block reward share        = 0.000% (0.000000000000 XMR)[0m
+[0;36m2024-10-25 22:18:50.1381[0m [0;90mStratumServer [0mstatus
+Hashrate (15m est) = 6.436 KH/s
+Hashrate (1h  est) = 7.065 KH/s
+Hashrate (24h est) = 6.474 KH/s
+Total hashes       = 4227085953
+Shares found       = 42
+Average effort     = 83.891%
+Current effort     = 136.093%
+Connections        = 7 (7 incoming)[0m
+[0;36m2024-10-25 22:18:50.1381[0m [0;90mP2PServer [0mstatus
+Connections    = 32 (16 incoming)
+Peer list size = 963
+Uptime         = 7d 3h 58m 35s[0m
+[0;36m2024-10-25 22:18:50.1381[0m [0;90mUtil [0mno background jobs running[0m
+[0;36m2024-10-25 22:18:50.1386[0m [0;90mStratumServer [0mIP:port                    TLS    uptime              difficulty          hashrate       name[0m
+[0;36m2024-10-25 22:18:50.1387[0m [0;90mStratumServer [0m192.168.0.192:32868        no     4h 31m 43s          20220               674 H/s        brat[0m
+[0;36m2024-10-25 22:18:50.1388[0m [0;90mStratumServer [0m192.168.0.169:35552        no     18h 17m 46s         46789               1.559 KH/s     maia[0m
+[0;36m2024-10-25 22:18:50.1389[0m [0;90mStratumServer [0m192.168.0.220:38338        no     18h 17m 48s         24885               829 H/s        phoebe[0m
+[0;36m2024-10-25 22:18:50.1390[0m [0;90mStratumServer [0m192.168.0.176:49184        no     18h 17m 48s         42204               1.406 KH/s     kermit[0m
+[0;36m2024-10-25 22:18:50.1391[0m [0;90mStratumServer [0m192.168.0.244:38026        no     7d 3h 58m 28s       6763                225 H/s        bingo[0m
+[0;36m2024-10-25 22:18:50.1392[0m [0;90mStratumServer [0m192.168.0.86:51218         no     7d 3h 58m 28s       45182               1.506 KH/s     sally[0m
+[0;36m2024-10-25 22:18:50.1393[0m [0;90mStratumServer [0m192.168.0.27:33002         no     7d 3h 58m 28s       28666               955 H/s        paris[0m
+[0;36m2024-10-25 22:18:50.1394[0m [0;90mStratumServer [0mTotal: 7 workers[0m
+[0;36m2024-10-25 23:57:05.3152[0m [0;90mSideChain [0mstatus
+Monero node               = 192.168.0.176:20081:ZMQ:20083
+Main chain height         = 3267129
+Main chain hashrate       = 3.011 GH/s
+Side chain ID             = mini
+Side chain height         = 9017418
+Side chain hashrate       = 11.491 MH/s
+PPLNS window              = 2160 blocks (+78 uncles, 0 orphans)
+PPLNS window duration     = 6h 21m 36s
+Your wallet address       = 48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG
+Your shares               = 0 blocks (+0 uncles, 0 orphans)
+Block reward share        = 0.000% (0.000000000000 XMR)[0m
+[0;36m2024-10-25 23:57:05.3152[0m [0;90mStratumServer [0mstatus
+Hashrate (15m est) = 6.930 KH/s
+Hashrate (1h  est) = 6.537 KH/s
+Hashrate (24h est) = 6.440 KH/s
+Total hashes       = 4266889490
+Shares found       = 42
+Average effort     = 83.891%
+Current effort     = 172.777%
+Connections        = 7 (7 incoming)[0m
+[0;36m2024-10-25 23:57:05.3152[0m [0;90mP2PServer [0mstatus
+Connections    = 30 (14 incoming)
+Peer list size = 961
+Uptime         = 7d 5h 36m 50s[0m
+[0;36m2024-10-25 23:57:05.3152[0m [0;90mUtil [0mno background jobs running[0m
+[0;36m2024-10-25 23:57:05.3162[0m [0;90mStratumServer [0mIP:port                    TLS    uptime              difficulty          hashrate       name[0m
+[0;36m2024-10-25 23:57:05.3162[0m [0;90mStratumServer [0m192.168.0.192:32868        no     6h 9m 58s           17906               596 H/s        brat[0m
+[0;36m2024-10-25 23:57:05.3162[0m [0;90mStratumServer [0m192.168.0.169:35552        no     19h 56m 1s          45058               1.501 KH/s     maia[0m
+[0;36m2024-10-25 23:57:05.3162[0m [0;90mStratumServer [0m192.168.0.220:38338        no     19h 56m 3s          20175               672 H/s        phoebe[0m
+[0;36m2024-10-25 23:57:05.3162[0m [0;90mStratumServer [0m192.168.0.176:49184        no     19h 56m 3s          42374               1.412 KH/s     kermit[0m
+[0;36m2024-10-25 23:57:05.3162[0m [0;90mStratumServer [0m192.168.0.244:38026        no     7d 5h 36m 43s       5186                172 H/s        bingo[0m
+[0;36m2024-10-25 23:57:05.3162[0m [0;90mStratumServer [0m192.168.0.86:51218         no     7d 5h 36m 43s       42400               1.413 KH/s     sally[0m
+[0;36m2024-10-25 23:57:05.3162[0m [0;90mStratumServer [0m192.168.0.27:33002         no     7d 5h 36m 43s       24112               803 H/s        paris[0m
+[0;36m2024-10-25 23:57:05.3162[0m [0;90mStratumServer [0mTotal: 7 workers[0m
+[0;36m2024-10-25 23:57:10.8419[0m [0;90mSideChain [0mstatus
+Monero node               = 192.168.0.176:20081:ZMQ:20083
+Main chain height         = 3267129
+Main chain hashrate       = 3.011 GH/s
+Side chain ID             = mini
+Side chain height         = 9017418
+Side chain hashrate       = 11.491 MH/s
+PPLNS window              = 2160 blocks (+78 uncles, 0 orphans)
+PPLNS window duration     = 6h 21m 36s
+Your wallet address       = 48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG
+Your shares               = 0 blocks (+0 uncles, 0 orphans)
+Block reward share        = 0.000% (0.000000000000 XMR)[0m
+[0;36m2024-10-25 23:57:10.8422[0m [0;90mStratumServer [0mIP:port                    TLS    uptime              difficulty          hashrate       name[0m
+[0;36m2024-10-25 23:57:10.8422[0m [0;90mStratumServer [0m192.168.0.192:32868        no     6h 10m 4s           17906               596 H/s        brat[0m
+[0;36m2024-10-25 23:57:10.8422[0m [0;90mStratumServer [0m192.168.0.169:35552        no     19h 56m 7s          45058               1.501 KH/s     maia[0m
+[0;36m2024-10-25 23:57:10.8422[0m [0;90mStratumServer [0m192.168.0.220:38338        no     19h 56m 9s          20175               672 H/s        phoebe[0m
+[0;36m2024-10-25 23:57:10.8422[0m [0;90mStratumServer [0m192.168.0.176:49184        no     19h 56m 9s          42374               1.412 KH/s     kermit[0m
+[0;36m2024-10-25 23:57:10.8423[0m [0;90mStratumServer [0m192.168.0.244:38026        no     7d 5h 36m 49s       5186                172 H/s        bingo[0m
+[0;36m2024-10-25 23:57:10.8423[0m [0;90mStratumServer [0m192.168.0.86:51218         no     7d 5h 36m 49s       42400               1.432 KH/s     sally[0m
+[0;36m2024-10-25 23:57:10.8423[0m [0;90mStratumServer [0m192.168.0.27:33002         no     7d 5h 36m 49s       24112               803 H/s        paris[0m
+[0;36m2024-10-25 23:57:10.8423[0m [0;90mStratumServer [0mTotal: 7 workers[0m
+[0;36m2024-10-25 23:57:10.8424[0m [0;90mStratumServer [0mstatus
+Hashrate (15m est) = 6.891 KH/s
+Hashrate (1h  est) = 6.536 KH/s
+Hashrate (24h est) = 6.440 KH/s
+Total hashes       = 4266931890
+Shares found       = 42
+Average effort     = 83.891%
+Current effort     = 172.814%
+Connections        = 7 (7 incoming)[0m
+[0;36m2024-10-25 23:57:10.8425[0m [0;90mP2PServer [0mstatus
+Connections    = 29 (13 incoming)
+Peer list size = 961
+Uptime         = 7d 5h 36m 56s[0m
+[0;36m2024-10-25 23:57:10.8426[0m [0;90mUtil [0mno background jobs running[0m
+[0;36m2024-10-26 02:19:44.5068[0m [0;90mStratumServer [0mIP:port                    TLS    uptime              difficulty          hashrate       name[0m
+[0;36m2024-10-26 02:19:44.5069[0m [0;90mStratumServer [0m192.168.0.192:32868        no     8h 32m 38s          21888               733 H/s        brat[0m
+[0;36m2024-10-26 02:19:44.5069[0m [0;90mStratumServer [0m192.168.0.169:35552        no     22h 18m 41s         35997               1.199 KH/s     maia[0m
+[0;36m2024-10-26 02:19:44.5069[0m [0;90mStratumServer [0m192.168.0.220:38338        no     22h 18m 43s         25293               843 H/s        phoebe[0m
+[0;36m2024-10-26 02:19:44.5069[0m [0;90mStratumServer [0m192.168.0.176:49184        no     22h 18m 43s         51988               1.732 KH/s     kermit[0m
+[0;36m2024-10-26 02:19:44.5069[0m [0;90mStratumServer [0m192.168.0.244:38026        no     7d 7h 59m 23s       6187                206 H/s        bingo[0m
+[0;36m2024-10-26 02:19:44.5069[0m [0;90mStratumServer [0m192.168.0.86:51218         no     7d 7h 59m 23s       45791               1.519 KH/s     sally[0m
+[0;36m2024-10-26 02:19:44.5069[0m [0;90mStratumServer [0m192.168.0.27:33002         no     7d 7h 59m 23s       17938               639 H/s        paris[0m
+[0;36m2024-10-26 02:19:44.5069[0m [0;90mStratumServer [0mTotal: 7 workers[0m
+[0;36m2024-10-26 02:19:44.5091[0m [0;90mSideChain [0mstatus
+Monero node               = 192.168.0.176:20081:ZMQ:20083
+Main chain height         = 3267187
+Main chain hashrate       = 3.050 GH/s
+Side chain ID             = mini
+Side chain height         = 9018259
+Side chain hashrate       = 12.037 MH/s
+PPLNS window              = 2160 blocks (+65 uncles, 0 orphans)
+PPLNS window duration     = 5h 59m 43s
+Your wallet address       = 48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG
+Your shares               = 0 blocks (+0 uncles, 0 orphans)
+Block reward share        = 0.000% (0.000000000000 XMR)[0m
+[0;36m2024-10-26 02:19:44.5091[0m [0;90mStratumServer [0mstatus
+Hashrate (15m est) = 7.198 KH/s
+Hashrate (1h  est) = 6.936 KH/s
+Hashrate (24h est) = 6.476 KH/s
+Total hashes       = 4324235282
+Shares found       = 42
+Average effort     = 83.891%
+Current effort     = 212.592%
+Connections        = 7 (7 incoming)[0m
+[0;36m2024-10-26 02:19:44.5091[0m [0;90mP2PServer [0mstatus
+Connections    = 32 (16 incoming)
+Peer list size = 967
+Uptime         = 7d 7h 59m 30s[0m
+[0;36m2024-10-26 02:19:44.5091[0m [0;90mUtil [0mno background jobs running[0m
+[0;36m2024-10-26 03:12:32.6004[0m [0;90mStratumServer [0m[0;32mSHARE FOUND: mainchain height 3267215, sidechain height 9018584, diff 118692919, client 192.168.0.27:33002, user paris, effort 232.317%[0m
+[0;36m2024-10-26 03:14:24.2654[0m [0;90mSideChain [0mstatus
+Monero node               = 192.168.0.176:20081:ZMQ:20083
+Main chain height         = 3267216
+Main chain hashrate       = 3.051 GH/s
+Side chain ID             = mini
+Side chain height         = 9018591
+Side chain hashrate       = 11.893 MH/s
+Your hashrate (pool-side) = 5.455 KH/s
+PPLNS window              = 2160 blocks (+59 uncles, 0 orphans)
+PPLNS window duration     = 6h 2m 36s
+Your wallet address       = 48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG
+Your shares               = 1 blocks (+0 uncles, 0 orphans)
+Your shares position      = [1.............................]
+Block reward share        = 0.046% (0.000275220090 XMR)[0m
+[0;36m2024-10-26 03:14:24.2655[0m [0;90mStratumServer [0mstatus
+Hashrate (15m est) = 5.354 KH/s
+Hashrate (1h  est) = 6.433 KH/s
+Hashrate (24h est) = 6.486 KH/s
+Total hashes       = 4344776035
+Shares found       = 43
+Average effort     = 87.437%
+Current effort     = 0.577%
+Connections        = 7 (7 incoming)[0m
+[0;36m2024-10-26 03:14:24.2655[0m [0;90mP2PServer [0mstatus
+Connections    = 32 (16 incoming)
+Peer list size = 976
+Uptime         = 7d 8h 54m 9s[0m
+[0;36m2024-10-26 03:14:24.2655[0m [0;90mUtil [0mno background jobs running[0m
+[0;36m2024-10-26 03:14:24.2659[0m [0;90mStratumServer [0mIP:port                    TLS    uptime              difficulty          hashrate       name[0m
+[0;36m2024-10-26 03:14:24.2659[0m [0;90mStratumServer [0m192.168.0.86:60266         no     0h 51m 42s          28939               964 H/s        sally[0m
+[0;36m2024-10-26 03:14:24.2659[0m [0;90mStratumServer [0m192.168.0.192:32868        no     9h 27m 17s          15680               524 H/s        brat[0m
+[0;36m2024-10-26 03:14:24.2659[0m [0;90mStratumServer [0m192.168.0.169:35552        no     23h 13m 20s         41535               1.384 KH/s     maia[0m
+[0;36m2024-10-26 03:14:24.2659[0m [0;90mStratumServer [0m192.168.0.220:38338        no     23h 13m 22s         23374               779 H/s        phoebe[0m
+[0;36m2024-10-26 03:14:24.2659[0m [0;90mStratumServer [0m192.168.0.176:49184        no     23h 13m 22s         52532               1.751 KH/s     kermit[0m
+[0;36m2024-10-26 03:14:24.2659[0m [0;90mStratumServer [0m192.168.0.244:38026        no     7d 8h 54m 2s        7227                240 H/s        bingo[0m
+[0;36m2024-10-26 03:14:24.2659[0m [0;90mStratumServer [0m192.168.0.27:33002         no     7d 8h 54m 2s        19328               644 H/s        paris[0m
+[0;36m2024-10-26 03:14:24.2659[0m [0;90mStratumServer [0mTotal: 7 workers[0m
+[0;36m2024-10-26 03:20:44.2264[0m [0;90mSideChain [0mstatus
+Monero node               = 192.168.0.176:20081:ZMQ:20083
+Main chain height         = 3267219
+Main chain hashrate       = 3.029 GH/s
+Side chain ID             = mini
+Side chain height         = 9018619
+Side chain hashrate       = 11.986 MH/s
+Your hashrate (pool-side) = 5.499 KH/s
+PPLNS window              = 2160 blocks (+59 uncles, 0 orphans)
+PPLNS window duration     = 5h 59m 40s
+Your wallet address       = 48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG
+Your shares               = 1 blocks (+0 uncles, 0 orphans)
+Your shares position      = [1.............................]
+Block reward share        = 0.046% (0.000276253177 XMR)[0m
+[0;36m2024-10-26 03:20:44.2264[0m [0;90mStratumServer [0mstatus
+Hashrate (15m est) = 5.737 KH/s
+Hashrate (1h  est) = 6.300 KH/s
+Hashrate (24h est) = 6.485 KH/s
+Total hashes       = 4347156443
+Shares found       = 43
+Average effort     = 87.437%
+Current effort     = 2.558%
+Connections        = 7 (7 incoming)[0m
+[0;36m2024-10-26 03:20:44.2265[0m [0;90mP2PServer [0mstatus
+Connections    = 31 (15 incoming)
+Peer list size = 981
+Uptime         = 7d 9h 0m 29s[0m
+[0;36m2024-10-26 03:20:44.2265[0m [0;90mUtil [0mno background jobs running[0m
+[0;36m2024-10-26 03:20:44.2318[0m [0;90mStratumServer [0mIP:port                    TLS    uptime              difficulty          hashrate       name[0m
+[0;36m2024-10-26 03:20:44.2319[0m [0;90mStratumServer [0m192.168.0.86:43534         no     0h 3m 15s           44218               1.473 KH/s     sally[0m
+[0;36m2024-10-26 03:20:44.2320[0m [0;90mStratumServer [0m192.168.0.192:32868        no     9h 33m 37s          15248               508 H/s        brat[0m
+[0;36m2024-10-26 03:20:44.2321[0m [0;90mStratumServer [0m192.168.0.169:35552        no     23h 19m 40s         41623               1.387 KH/s     maia[0m
+[0;36m2024-10-26 03:20:44.2322[0m [0;90mStratumServer [0m192.168.0.220:38338        no     23h 19m 42s         22537               751 H/s        phoebe[0m
+[0;36m2024-10-26 03:20:44.2323[0m [0;90mStratumServer [0m192.168.0.176:49184        no     23h 19m 42s         48615               1.630 KH/s     kermit[0m
+[0;36m2024-10-26 03:20:44.2323[0m [0;90mStratumServer [0m192.168.0.244:38026        no     7d 9h 0m 22s        7941                264 H/s        bingo[0m
+[0;36m2024-10-26 03:20:44.2324[0m [0;90mStratumServer [0m192.168.0.27:33002         no     7d 9h 0m 22s        19070               635 H/s        paris[0m
+[0;36m2024-10-26 03:20:44.2325[0m [0;90mStratumServer [0mTotal: 7 workers[0m
+[0;36m2024-10-26 03:20:46.3179[0m [0;90mSideChain [0mstatus
+Monero node               = 192.168.0.176:20081:ZMQ:20083
+Main chain height         = 3267219
+Main chain hashrate       = 3.029 GH/s
+Side chain ID             = mini
+Side chain height         = 9018620
+Side chain hashrate       = 11.992 MH/s
+Your hashrate (pool-side) = 5.502 KH/s
+PPLNS window              = 2160 blocks (+59 uncles, 0 orphans)
+PPLNS window duration     = 5h 59m 30s
+Your wallet address       = 48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG
+Your shares               = 1 blocks (+0 uncles, 0 orphans)
+Your shares position      = [1.............................]
+Block reward share        = 0.046% (0.000276357441 XMR)[0m
+[0;36m2024-10-26 03:20:46.3179[0m [0;90mStratumServer [0mstatus
+Hashrate (15m est) = 5.724 KH/s
+Hashrate (1h  est) = 6.297 KH/s
+Hashrate (24h est) = 6.486 KH/s
+Total hashes       = 4347156443
+Shares found       = 43
+Average effort     = 87.437%
+Current effort     = 2.557%
+Connections        = 7 (7 incoming)[0m
+[0;36m2024-10-26 03:20:46.3180[0m [0;90mP2PServer [0mstatus
+Connections    = 31 (15 incoming)
+Peer list size = 981
+Uptime         = 7d 9h 0m 31s[0m
+[0;36m2024-10-26 03:20:46.3180[0m [0;90mUtil [0mno background jobs running[0m
+[0;36m2024-10-26 03:20:46.3186[0m [0;90mStratumServer [0mIP:port                    TLS    uptime              difficulty          hashrate       name[0m
+[0;36m2024-10-26 03:20:46.3190[0m [0;90mStratumServer [0m192.168.0.86:43534         no     0h 3m 17s           44218               1.473 KH/s     sally[0m
+[0;36m2024-10-26 03:20:46.3192[0m [0;90mStratumServer [0m192.168.0.192:32868        no     9h 33m 39s          15248               508 H/s        brat[0m
+[0;36m2024-10-26 03:20:46.3194[0m [0;90mStratumServer [0m192.168.0.169:35552        no     23h 19m 42s         41623               1.387 KH/s     maia[0m
+[0;36m2024-10-26 03:20:46.3196[0m [0;90mStratumServer [0m192.168.0.220:38338        no     23h 19m 44s         22537               751 H/s        phoebe[0m
+[0;36m2024-10-26 03:20:46.3197[0m [0;90mStratumServer [0m192.168.0.176:49184        no     23h 19m 44s         48904               1.630 KH/s     kermit[0m
+[0;36m2024-10-26 03:20:46.3199[0m [0;90mStratumServer [0m192.168.0.244:38026        no     7d 9h 0m 24s        7941                264 H/s        bingo[0m
+[0;36m2024-10-26 03:20:46.3200[0m [0;90mStratumServer [0m192.168.0.27:33002         no     7d 9h 0m 24s        19070               635 H/s        paris[0m
+[0;36m2024-10-26 03:20:46.3202[0m [0;90mStratumServer [0mTotal: 7 workers[0m
+[0;36m2024-10-26 03:33:21.5071[0m [0;90mStratumServer [0m[0;32mSHARE FOUND: mainchain height 3267224, sidechain height 9018695, diff 120524815, client 192.168.0.86:43534, user sally, effort 7.039%[0m
+[0;36m2024-10-26 05:39:16.2389[0m [0;90mStratumServer [0m[0;32mSHARE FOUND: mainchain height 3267271, sidechain height 9019391, diff 116928201, client 192.168.0.220:50156, user phoebe, effort 45.264%[0m
+[0;36m2024-10-26 06:15:13.7554[0m [0;90mSideChain [0m[0;92madd_external_block: block 24947ca544faeb5b634000f0c7d785e831cd5b0a4de753b1f07658a77e05024c has enough PoW for Monero network, submitting it[0m
+[0;36m2024-10-26 06:15:13.7595[0m [0;90mP2Pool [0m[0;92msubmit_block: height = 3267283, external blob (27682 bytes)[0m
+[0;36m2024-10-26 06:15:14.0793[0m [0;90mP2Pool [0m[0;92mBLOCK FOUND: main chain block at height 3267283 was mined by someone else in this p2pool
+-----------------------------------------------------------------------------------------------
+| ######   #        #######   #####   #    #      #######  #######  #     #  #     #  ######  |
+| #     #  #        #     #  #     #  #   #       #        #     #  #     #  ##    #  #     # |
+| #     #  #        #     #  #        #  #        #        #     #  #     #  # #   #  #     # |
+| ######   #        #     #  #        ###         #####    #     #  #     #  #  #  #  #     # |
+| #     #  #        #     #  #        #  #        #        #     #  #     #  #   # #  #     # |
+| #     #  #        #     #  #     #  #   #       #        #     #  #     #  #    ##  #     # |
+| ######   #######  #######   #####   #    #      #        #######   #####   #     #  ######  |
+-----------------------------------------------------------------------------------------------[0m
+[0;36m2024-10-26 06:15:14.0801[0m [0;90mP2Pool [0m[0;96mYour wallet [0;92m48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG[0;96m got a payout of [0;92m0.000839126346 XMR[0;96m in block [0;92m3267283[0m
+[0;36m2024-10-26 06:15:16.6420[0m [0;90mP2Pool [0m[0;92msubmit_block: BLOCK ACCEPTED at height 3267283 and difficulty = 355409865080[0m
+[0;36m2024-10-26 08:09:12.5513[0m [0;90mStratumServer [0m[0;32mSHARE FOUND: mainchain height 3267343, sidechain height 9020304, diff 118643306, client 192.168.0.176:50512, user kermit, effort 52.567%[0m
+[0;36m2024-10-26 08:56:51.2290[0m [0;90mStratumServer [0m[0;32mSHARE FOUND: mainchain height 3267368, sidechain height 9020604, diff 118623296, client 192.168.0.192:42290, user brat, effort 16.194%[0m
+[0;36m2024-10-26 09:09:52.9907[0m [0;90mStratumServer [0m[0;32mSHARE FOUND: mainchain height 3267373, sidechain height 9020687, diff 119531987, client 192.168.0.176:50512, user kermit, effort 4.131%[0m
+[0;36m2024-10-26 13:46:28.9727[0m [0;90mSideChain [0mstatus
+Monero node               = 192.168.0.176:20081:ZMQ:20083
+Main chain height         = 3267535
+Main chain hashrate       = 2.805 GH/s
+Side chain ID             = mini
+Side chain height         = 9022247
+Side chain hashrate       = 11.770 MH/s
+Your hashrate (pool-side) = 15.980 KH/s
+PPLNS window              = 2160 blocks (+47 uncles, 1 orphans)
+PPLNS window duration     = 6h 12m 7s
+Your wallet address       = 48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG
+Your shares               = 3 blocks (+0 uncles, 0 orphans)
+Your shares position      = [....................1.1...1...]
+Block reward share        = 0.136% (0.000865481839 XMR)[0m
+[0;36m2024-10-26 13:46:28.9727[0m [0;90mStratumServer [0mstatus
+Hashrate (15m est) = 6.170 KH/s
+Hashrate (1h  est) = 6.712 KH/s
+Hashrate (24h est) = 6.733 KH/s
+Total hashes       = 4603883468
+Shares found       = 48
+Average effort     = 80.755%
+Current effort     = 95.048%
+Connections        = 7 (7 incoming)[0m
+[0;36m2024-10-26 13:46:28.9727[0m [0;90mP2PServer [0mstatus
+Connections    = 32 (16 incoming)
+Peer list size = 989
+Uptime         = 7d 19h 26m 14s[0m
+[0;36m2024-10-26 13:46:28.9727[0m [0;90mUtil [0mno background jobs running[0m
+[0;36m2024-10-26 13:46:28.9731[0m [0;90mStratumServer [0mIP:port                    TLS    uptime              difficulty          hashrate       name[0m
+[0;36m2024-10-26 13:46:28.9732[0m [0;90mStratumServer [0m192.168.0.169:39086        no     9h 45m 27s          44991               1.499 KH/s     maia[0m
+[0;36m2024-10-26 13:46:28.9733[0m [0;90mStratumServer [0m192.168.0.176:50512        no     9h 45m 27s          43670               1.455 KH/s     kermit[0m
+[0;36m2024-10-26 13:46:28.9734[0m [0;90mStratumServer [0m192.168.0.220:50156        no     9h 45m 27s          18180               606 H/s        phoebe[0m
+[0;36m2024-10-26 13:46:28.9735[0m [0;90mStratumServer [0m192.168.0.192:42290        no     9h 45m 27s          21439               714 H/s        brat[0m
+[0;36m2024-10-26 13:46:28.9735[0m [0;90mStratumServer [0m192.168.0.86:43534         no     10h 29m 0s          39726               1.324 KH/s     sally[0m
+[0;36m2024-10-26 13:46:28.9736[0m [0;90mStratumServer [0m192.168.0.244:38026        no     7d 19h 26m 7s       6734                224 H/s        bingo[0m
+[0;36m2024-10-26 13:46:28.9737[0m [0;90mStratumServer [0m192.168.0.27:33002         no     7d 19h 26m 7s       21121               705 H/s        paris[0m
+[0;36m2024-10-26 13:46:28.9738[0m [0;90mStratumServer [0mTotal: 7 workers[0m
+[0;36m2024-10-26 16:10:56.5505[0m [0;90mStratumServer [0m[0;32mSHARE FOUND: mainchain height 3267605, sidechain height 9023040, diff 112288184, client 192.168.0.27:33002, user paris, effort 154.157%[0m
+[0;36m2024-10-26 16:24:36.5430[0m [0;90mStratumServer [0m[0;32mSHARE FOUND: mainchain height 3267612, sidechain height 9023126, diff 113470318, client 192.168.0.169:39086, user maia, effort 4.421%[0m
+[0;36m2024-10-26 16:34:29.1671[0m [0;90mStratumServer [0m[0;32mSHARE FOUND: mainchain height 3267615, sidechain height 9023174, diff 113398154, client 192.168.0.244:38026, user bingo, effort 3.857%[0m
+[0;36m2024-10-26 19:25:24.3657[0m [0;90mSideChain [0mstatus
+Monero node               = 192.168.0.176:20081:ZMQ:20083
+Main chain height         = 3267697
+Main chain hashrate       = 2.860 GH/s
+Side chain ID             = mini
+Side chain height         = 9024191
+Side chain hashrate       = 10.810 MH/s
+Your hashrate (pool-side) = 14.763 KH/s
+PPLNS window              = 2160 blocks (+45 uncles, 1 orphans)
+PPLNS window duration     = 6h 22m 52s
+Your wallet address       = 48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG
+Your shares               = 3 blocks (+0 uncles, 0 orphans)
+Your shares position      = [.............111..............]
+Block reward share        = 0.137% (0.000835507903 XMR)[0m
+[0;36m2024-10-26 19:25:24.3658[0m [0;90mStratumServer [0mstatus
+Hashrate (15m est) = 6.824 KH/s
+Hashrate (1h  est) = 6.782 KH/s
+Hashrate (24h est) = 6.850 KH/s
+Total hashes       = 4745891606
+Shares found       = 51
+Average effort     = 79.207%
+Current effort     = 66.038%
+Connections        = 7 (7 incoming)[0m
+[0;36m2024-10-26 19:25:24.3658[0m [0;90mP2PServer [0mstatus
+Connections    = 32 (16 incoming)
+Peer list size = 984
+Uptime         = 8d 1h 5m 9s[0m
+[0;36m2024-10-26 19:25:24.3658[0m [0;90mUtil [0mno background jobs running[0m
+[0;36m2024-10-26 19:25:24.3661[0m [0;90mStratumServer [0mIP:port                    TLS    uptime              difficulty          hashrate       name[0m
+[0;36m2024-10-26 19:25:24.3662[0m [0;90mStratumServer [0m192.168.0.169:39086        no     15h 24m 22s         43382               1.446 KH/s     maia[0m
+[0;36m2024-10-26 19:25:24.3663[0m [0;90mStratumServer [0m192.168.0.176:50512        no     15h 24m 22s         41064               1.366 KH/s     kermit[0m
+[0;36m2024-10-26 19:25:24.3664[0m [0;90mStratumServer [0m192.168.0.220:50156        no     15h 24m 22s         25653               855 H/s        phoebe[0m
+[0;36m2024-10-26 19:25:24.3664[0m [0;90mStratumServer [0m192.168.0.192:42290        no     15h 24m 22s         19027               634 H/s        brat[0m
+[0;36m2024-10-26 19:25:24.3665[0m [0;90mStratumServer [0m192.168.0.86:43534         no     16h 7m 55s          53192               1.807 KH/s     sally[0m
+[0;36m2024-10-26 19:25:24.3666[0m [0;90mStratumServer [0m192.168.0.244:38026        no     8d 1h 5m 2s         6359                211 H/s        bingo[0m
+[0;36m2024-10-26 19:25:24.3668[0m [0;90mStratumServer [0m192.168.0.27:33002         no     8d 1h 5m 2s         16628               554 H/s        paris[0m
+[0;36m2024-10-26 19:25:24.3669[0m [0;90mStratumServer [0mTotal: 7 workers[0m
+[0;36m2024-10-26 19:33:54.7895[0m [0;90mStratumServer [0m[0;32mSHARE FOUND: mainchain height 3267701, sidechain height 9024248, diff 110248254, client 192.168.0.192:42290, user brat, effort 67.953%[0m
+[0;36m2024-10-26 20:01:09.9818[0m [0;90mSideChain [0mstatus
+Monero node               = 192.168.0.176:20081:ZMQ:20083
+Main chain height         = 3267718
+Main chain hashrate       = 2.856 GH/s
+Side chain ID             = mini
+Side chain height         = 9024401
+Side chain hashrate       = 11.113 MH/s
+Your hashrate (pool-side) = 20.220 KH/s
+PPLNS window              = 2160 blocks (+48 uncles, 0 orphans)
+PPLNS window duration     = 6h 10m 25s
+Your wallet address       = 48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG
+Your shares               = 4 blocks (+0 uncles, 0 orphans)
+Your shares position      = [..1.............111...........]
+Block reward share        = 0.182% (0.001091735619 XMR)[0m
+[0;36m2024-10-26 20:01:09.9819[0m [0;90mStratumServer [0mstatus
+Hashrate (15m est) = 6.332 KH/s
+Hashrate (1h  est) = 6.415 KH/s
+Hashrate (24h est) = 6.837 KH/s
+Total hashes       = 4759225929
+Shares found       = 52
+Average effort     = 79.000%
+Current effort     = 8.822%
+Connections        = 7 (7 incoming)[0m
+[0;36m2024-10-26 20:01:09.9819[0m [0;90mP2PServer [0mstatus
+Connections    = 32 (16 incoming)
+Peer list size = 982
+Uptime         = 8d 1h 40m 55s[0m
+[0;36m2024-10-26 20:01:09.9819[0m [0;90mUtil [0mno background jobs running[0m
+[0;36m2024-10-26 20:01:09.9822[0m [0;90mStratumServer [0mIP:port                    TLS    uptime              difficulty          hashrate       name[0m
+[0;36m2024-10-26 20:01:09.9823[0m [0;90mStratumServer [0m192.168.0.169:39086        no     16h 0m 8s           38073               1.269 KH/s     maia[0m
+[0;36m2024-10-26 20:01:09.9824[0m [0;90mStratumServer [0m192.168.0.176:50512        no     16h 0m 8s           42225               1.407 KH/s     kermit[0m
+[0;36m2024-10-26 20:01:09.9825[0m [0;90mStratumServer [0m192.168.0.220:50156        no     16h 0m 8s           20128               670 H/s        phoebe[0m
+[0;36m2024-10-26 20:01:09.9825[0m [0;90mStratumServer [0m192.168.0.192:42290        no     16h 0m 8s           20365               678 H/s        brat[0m
+[0;36m2024-10-26 20:01:09.9826[0m [0;90mStratumServer [0m192.168.0.86:43534         no     16h 43m 41s         44209               1.473 KH/s     sally[0m
+[0;36m2024-10-26 20:01:09.9827[0m [0;90mStratumServer [0m192.168.0.244:38026        no     8d 1h 40m 48s       7119                237 H/s        bingo[0m
+[0;36m2024-10-26 20:01:09.9828[0m [0;90mStratumServer [0m192.168.0.27:33002         no     8d 1h 40m 48s       19249               641 H/s        paris[0m
+[0;36m2024-10-26 20:01:09.9829[0m [0;90mStratumServer [0mTotal: 7 workers[0m
+[0;36m2024-10-26 21:33:01.7552[0m [0;90mStratumServer [0m[0;32mSHARE FOUND: mainchain height 3267766, sidechain height 9024941, diff 111762427, client 192.168.0.86:43534, user sally, effort 42.770%[0m
+[0;36m2024-10-26 21:46:25.7611[0m [0;90mStratumServer [0m[0;32mSHARE FOUND: mainchain height 3267776, sidechain height 9025019, diff 112619913, client 192.168.0.86:43534, user sally, effort 6.293%[0m
+[0;36m2024-10-26 21:52:29.2237[0m [0;90mSideChain [0mstatus
+Monero node               = 192.168.0.176:20081:ZMQ:20083
+Main chain height         = 3267777
+Main chain hashrate       = 2.823 GH/s
+Side chain ID             = mini
+Side chain height         = 9025066
+Side chain hashrate       = 11.190 MH/s
+Your hashrate (pool-side) = 30.656 KH/s
+PPLNS window              = 2160 blocks (+58 uncles, 0 orphans)
+PPLNS window duration     = 6h 6m 18s
+Your wallet address       = 48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG
+Your shares               = 6 blocks (+0 uncles, 0 orphans)
+Your shares position      = [11........1..............111..]
+Block reward share        = 0.274% (0.001666609545 XMR)[0m
+[0;36m2024-10-26 21:52:29.2237[0m [0;90mStratumServer [0mstatus
+Hashrate (15m est) = 8.365 KH/s
+Hashrate (1h  est) = 7.464 KH/s
+Hashrate (24h est) = 6.832 KH/s
+Total hashes       = 4807125610
+Shares found       = 54
+Average effort     = 77.038%
+Current effort     = 2.516%
+Connections        = 7 (7 incoming)[0m
+[0;36m2024-10-26 21:52:29.2237[0m [0;90mP2PServer [0mstatus
+Connections    = 32 (16 incoming)
+Peer list size = 978
+Uptime         = 8d 3h 32m 14s[0m
+[0;36m2024-10-26 21:52:29.2237[0m [0;90mUtil [0mno background jobs running[0m
+[0;36m2024-10-26 21:52:29.2241[0m [0;90mStratumServer [0mIP:port                    TLS    uptime              difficulty          hashrate       name[0m
+[0;36m2024-10-26 21:52:29.2242[0m [0;90mStratumServer [0m192.168.0.169:39086        no     17h 51m 27s         48856               1.628 KH/s     maia[0m
+[0;36m2024-10-26 21:52:29.2243[0m [0;90mStratumServer [0m192.168.0.176:50512        no     17h 51m 27s         58401               1.946 KH/s     kermit[0m
+[0;36m2024-10-26 21:52:29.2243[0m [0;90mStratumServer [0m192.168.0.220:50156        no     17h 51m 27s         24698               823 H/s        phoebe[0m
+[0;36m2024-10-26 21:52:29.2244[0m [0;90mStratumServer [0m192.168.0.192:42290        no     17h 51m 27s         16181               539 H/s        brat[0m
+[0;36m2024-10-26 21:52:29.2245[0m [0;90mStratumServer [0m192.168.0.86:43534         no     18h 35m 0s          57061               1.902 KH/s     sally[0m
+[0;36m2024-10-26 21:52:29.2246[0m [0;90mStratumServer [0m192.168.0.244:38026        no     8d 3h 32m 7s        6443                214 H/s        bingo[0m
+[0;36m2024-10-26 21:52:29.2247[0m [0;90mStratumServer [0m192.168.0.27:33002         no     8d 3h 32m 7s        28615               985 H/s        paris[0m
+[0;36m2024-10-26 21:52:29.2248[0m [0;90mStratumServer [0mTotal: 7 workers[0m
+[0;36m2024-10-26 21:58:05.2393[0m [0;90mSideChain [0mstatus
+Monero node               = 192.168.0.176:20081:ZMQ:20083
+Main chain height         = 3267777
+Main chain hashrate       = 2.823 GH/s
+Side chain ID             = mini
+Side chain height         = 9025096
+Side chain hashrate       = 11.149 MH/s
+Your hashrate (pool-side) = 30.561 KH/s
+PPLNS window              = 2160 blocks (+57 uncles, 0 orphans)
+PPLNS window duration     = 6h 7m 27s
+Your wallet address       = 48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG
+Your shares               = 6 blocks (+0 uncles, 0 orphans)
+Your shares position      = [.11........1.............111..]
+Block reward share        = 0.274% (0.001699309406 XMR)[0m
+[0;36m2024-10-26 21:58:05.2394[0m [0;90mStratumServer [0mstatus
+Hashrate (15m est) = 8.057 KH/s
+Hashrate (1h  est) = 7.452 KH/s
+Hashrate (24h est) = 6.835 KH/s
+Total hashes       = 4809531246
+Shares found       = 54
+Average effort     = 77.038%
+Current effort     = 4.683%
+Connections        = 7 (7 incoming)[0m
+[0;36m2024-10-26 21:58:05.2394[0m [0;90mP2PServer [0mstatus
+Connections    = 32 (16 incoming)
+Peer list size = 977
+Uptime         = 8d 3h 37m 50s[0m
+[0;36m2024-10-26 21:58:05.2394[0m [0;90mUtil [0mno background jobs running[0m
+[0;36m2024-10-26 21:58:05.2401[0m [0;90mStratumServer [0mIP:port                    TLS    uptime              difficulty          hashrate       name[0m
+[0;36m2024-10-26 21:58:05.2401[0m [0;90mStratumServer [0m192.168.0.169:39086        no     17h 57m 3s          55431               1.847 KH/s     maia[0m
+[0;36m2024-10-26 21:58:05.2401[0m [0;90mStratumServer [0m192.168.0.176:50512        no     17h 57m 3s          53630               1.787 KH/s     kermit[0m
+[0;36m2024-10-26 21:58:05.2401[0m [0;90mStratumServer [0m192.168.0.220:50156        no     17h 57m 3s          12203               406 H/s        phoebe[0m
+[0;36m2024-10-26 21:58:05.2401[0m [0;90mStratumServer [0m192.168.0.192:42290        no     17h 57m 3s          16288               542 H/s        brat[0m
+[0;36m2024-10-26 21:58:05.2401[0m [0;90mStratumServer [0m192.168.0.86:43534         no     18h 40m 36s         63940               2.131 KH/s     sally[0m
+[0;36m2024-10-26 21:58:05.2401[0m [0;90mStratumServer [0m192.168.0.244:38026        no     8d 3h 37m 43s       6156                205 H/s        bingo[0m
+[0;36m2024-10-26 21:58:05.2401[0m [0;90mStratumServer [0m192.168.0.27:33002         no     8d 3h 37m 43s       28821               960 H/s        paris[0m
+[0;36m2024-10-26 21:58:05.2401[0m [0;90mStratumServer [0mTotal: 7 workers[0m
+[0;36m2024-10-27 02:45:00.0786[0m [0;90mSideChain [0mstatus
+Monero node               = 192.168.0.176:20081:ZMQ:20083
+Main chain height         = 3267922
+Main chain hashrate       = 2.937 GH/s
+Side chain ID             = mini
+Side chain height         = 9026735
+Side chain hashrate       = 11.435 MH/s
+Your hashrate (pool-side) = 10.058 KH/s
+PPLNS window              = 2160 blocks (+67 uncles, 1 orphans)
+PPLNS window duration     = 6h 11m 47s
+Your wallet address       = 48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG
+Your shares               = 2 blocks (+0 uncles, 0 orphans)
+Your shares position      = [.......................11.....]
+Block reward share        = 0.088% (0.000545262724 XMR)[0m
+[0;36m2024-10-27 02:45:00.0787[0m [0;90mStratumServer [0mstatus
+Hashrate (15m est) = 6.025 KH/s
+Hashrate (1h  est) = 6.532 KH/s
+Hashrate (24h est) = 6.845 KH/s
+Total hashes       = 4925642986
+Shares found       = 54
+Average effort     = 77.038%
+Current effort     = 106.103%
+Connections        = 7 (7 incoming)[0m
+[0;36m2024-10-27 02:45:00.0787[0m [0;90mP2PServer [0mstatus
+Connections    = 32 (16 incoming)
+Peer list size = 986
+Uptime         = 8d 8h 24m 45s[0m
+[0;36m2024-10-27 02:45:00.0787[0m [0;90mUtil [0mno background jobs running[0m
+[0;36m2024-10-27 02:45:00.0788[0m [0;90mStratumServer [0mIP:port                    TLS    uptime              difficulty          hashrate       name[0m
+[0;36m2024-10-27 02:45:00.0788[0m [0;90mStratumServer [0m192.168.0.169:39086        no     22h 43m 58s         45956               1.490 KH/s     maia[0m
+[0;36m2024-10-27 02:45:00.0788[0m [0;90mStratumServer [0m192.168.0.176:50512        no     22h 43m 58s         41344               1.378 KH/s     kermit[0m
+[0;36m2024-10-27 02:45:00.0788[0m [0;90mStratumServer [0m192.168.0.220:50156        no     22h 43m 58s         19342               644 H/s        phoebe[0m
+[0;36m2024-10-27 02:45:00.0788[0m [0;90mStratumServer [0m192.168.0.192:42290        no     22h 43m 58s         19004               633 H/s        brat[0m
+[0;36m2024-10-27 02:45:00.0788[0m [0;90mStratumServer [0m192.168.0.86:43534         no     23h 27m 31s         39800               1.326 KH/s     sally[0m
+[0;36m2024-10-27 02:45:00.0788[0m [0;90mStratumServer [0m192.168.0.244:38026        no     8d 8h 24m 38s       6982                232 H/s        bingo[0m
+[0;36m2024-10-27 02:45:00.0788[0m [0;90mStratumServer [0m192.168.0.27:33002         no     8d 8h 24m 38s       24664               822 H/s        paris[0m
+[0;36m2024-10-27 02:45:00.0788[0m [0;90mStratumServer [0mTotal: 7 workers[0m
+[0;36m2024-10-27 04:39:23.7724[0m [0;90mStratumServer [0m[0;32mSHARE FOUND: mainchain height 3267970, sidechain height 9027420, diff 113535300, client 192.168.0.176:44204, user kermit, effort 148.285%[0m
+[0;36m2024-10-27 05:37:22.7420[0m [0;90mSideChain [0mstatus
+Monero node               = 192.168.0.176:20081:ZMQ:20083
+Main chain height         = 3267998
+Main chain hashrate       = 2.952 GH/s
+Side chain ID             = mini
+Side chain height         = 9027731
+Side chain hashrate       = 11.105 MH/s
+Your hashrate (pool-side) = 4.914 KH/s
+PPLNS window              = 2160 blocks (+69 uncles, 0 orphans)
+PPLNS window duration     = 6h 25m 1s
+Your wallet address       = 48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG
+Your shares               = 1 blocks (+0 uncles, 0 orphans)
+Your shares position      = [....1.........................]
+Block reward share        = 0.044% (0.000270227596 XMR)[0m
+[0;36m2024-10-27 05:37:22.7420[0m [0;90mStratumServer [0mstatus
+Hashrate (15m est) = 6.343 KH/s
+Hashrate (1h  est) = 6.543 KH/s
+Hashrate (24h est) = 6.841 KH/s
+Total hashes       = 4995442970
+Shares found       = 55
+Average effort     = 78.312%
+Current effort     = 20.510%
+Connections        = 7 (7 incoming)[0m
+[0;36m2024-10-27 05:37:22.7420[0m [0;90mP2PServer [0mstatus
+Connections    = 32 (16 incoming)
+Peer list size = 985
+Uptime         = 8d 11h 17m 8s[0m
+[0;36m2024-10-27 05:37:22.7420[0m [0;90mUtil [0mno background jobs running[0m
+[0;36m2024-10-27 05:37:22.7424[0m [0;90mStratumServer [0mIP:port                    TLS    uptime              difficulty          hashrate       name[0m
+[0;36m2024-10-27 05:37:22.7425[0m [0;90mStratumServer [0m192.168.0.169:48038        no     1h 36m 21s          41846               1.394 KH/s     maia[0m
+[0;36m2024-10-27 05:37:22.7426[0m [0;90mStratumServer [0m192.168.0.220:45176        no     1h 36m 21s          23308               776 H/s        phoebe[0m
+[0;36m2024-10-27 05:37:22.7427[0m [0;90mStratumServer [0m192.168.0.192:34174        no     1h 36m 21s          16888               562 H/s        brat[0m
+[0;36m2024-10-27 05:37:22.7428[0m [0;90mStratumServer [0m192.168.0.176:44204        no     1h 36m 22s          47741               1.591 KH/s     kermit[0m
+[0;36m2024-10-27 05:37:22.7429[0m [0;90mStratumServer [0m192.168.0.86:43534         no     1d 2h 19m 54s       39384               1.312 KH/s     sally[0m
+[0;36m2024-10-27 05:37:22.7430[0m [0;90mStratumServer [0m192.168.0.244:38026        no     8d 11h 17m 1s       5022                169 H/s        bingo[0m
+[0;36m2024-10-27 05:37:22.7431[0m [0;90mStratumServer [0m192.168.0.27:33002         no     8d 11h 17m 1s       24402               813 H/s        paris[0m
+[0;36m2024-10-27 05:37:22.7435[0m [0;90mStratumServer [0mTotal: 7 workers[0m
+[0;36m2024-10-27 06:47:38.7705[0m [0;90mSideChain [0mstatus
+Monero node               = 192.168.0.176:20081:ZMQ:20083
+Main chain height         = 3268028
+Main chain hashrate       = 2.940 GH/s
+Side chain ID             = mini
+Side chain height         = 9028155
+Side chain hashrate       = 11.247 MH/s
+Your hashrate (pool-side) = 5.000 KH/s
+PPLNS window              = 2160 blocks (+74 uncles, 0 orphans)
+PPLNS window duration     = 6h 18m 26s
+Your wallet address       = 48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG
+Your shares               = 1 blocks (+0 uncles, 0 orphans)
+Your shares position      = [.........1....................]
+Block reward share        = 0.044% (0.000273358176 XMR)[0m
+[0;36m2024-10-27 06:47:38.7705[0m [0;90mStratumServer [0mstatus
+Hashrate (15m est) = 6.270 KH/s
+Hashrate (1h  est) = 6.769 KH/s
+Hashrate (24h est) = 6.837 KH/s
+Total hashes       = 5024121981
+Shares found       = 55
+Average effort     = 78.312%
+Current effort     = 45.751%
+Connections        = 7 (7 incoming)[0m
+[0;36m2024-10-27 06:47:38.7705[0m [0;90mP2PServer [0mstatus
+Connections    = 32 (16 incoming)
+Peer list size = 971
+Uptime         = 8d 12h 27m 24s[0m
+[0;36m2024-10-27 06:47:38.7705[0m [0;90mUtil [0mno background jobs running[0m
+[0;36m2024-10-27 06:47:38.7712[0m [0;90mStratumServer [0mIP:port                    TLS    uptime              difficulty          hashrate       name[0m
+[0;36m2024-10-27 06:47:38.7716[0m [0;90mStratumServer [0m192.168.0.169:48038        no     2h 46m 37s          51755               1.725 KH/s     maia[0m
+[0;36m2024-10-27 06:47:38.7718[0m [0;90mStratumServer [0m192.168.0.220:45176        no     2h 46m 37s          20033               667 H/s        phoebe[0m
+[0;36m2024-10-27 06:47:38.7720[0m [0;90mStratumServer [0m192.168.0.192:34174        no     2h 46m 37s          22669               755 H/s        brat[0m
+[0;36m2024-10-27 06:47:38.7722[0m [0;90mStratumServer [0m192.168.0.176:44204        no     2h 46m 38s          26883               896 H/s        kermit[0m
+[0;36m2024-10-27 06:47:38.7724[0m [0;90mStratumServer [0m192.168.0.86:43534         no     1d 3h 30m 10s       44457               1.481 KH/s     sally[0m
+[0;36m2024-10-27 06:47:38.7725[0m [0;90mStratumServer [0m192.168.0.244:38026        no     8d 12h 27m 17s      6915                230 H/s        bingo[0m
+[0;36m2024-10-27 06:47:38.7727[0m [0;90mStratumServer [0m192.168.0.27:33002         no     8d 12h 27m 17s      18567               618 H/s        paris[0m
+[0;36m2024-10-27 06:47:38.7728[0m [0;90mStratumServer [0mTotal: 7 workers[0m
+[0;36m2024-10-27 09:20:26.5730[0m [0;90mSideChain [0mstatus
+Monero node               = 192.168.0.176:20081:ZMQ:20083
+Main chain height         = 3268108
+Main chain hashrate       = 2.876 GH/s
+Side chain ID             = mini
+Side chain height         = 9029072
+Side chain hashrate       = 11.373 MH/s
+Your hashrate (pool-side) = 5.107 KH/s
+PPLNS window              = 2160 blocks (+65 uncles, 1 orphans)
+PPLNS window duration     = 6h 10m 29s
+Your wallet address       = 48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG
+Your shares               = 1 blocks (+0 uncles, 0 orphans)
+Your shares position      = [......................1.......]
+Block reward share        = 0.045% (0.000269443241 XMR)[0m
+[0;36m2024-10-27 09:20:26.5730[0m [0;90mStratumServer [0mstatus
+Hashrate (15m est) = 7.495 KH/s
+Hashrate (1h  est) = 7.505 KH/s
+Hashrate (24h est) = 6.862 KH/s
+Total hashes       = 5089348492
+Shares found       = 55
+Average effort     = 78.312%
+Current effort     = 102.595%
+Connections        = 7 (7 incoming)[0m
+[0;36m2024-10-27 09:20:26.5730[0m [0;90mP2PServer [0mstatus
+Connections    = 32 (16 incoming)
+Peer list size = 961
+Uptime         = 8d 15h 0m 12s[0m
+[0;36m2024-10-27 09:20:26.5730[0m [0;90mUtil [0mno background jobs running[0m
+[0;36m2024-10-27 09:20:26.5734[0m [0;90mStratumServer [0mIP:port                    TLS    uptime              difficulty          hashrate       name[0m
+[0;36m2024-10-27 09:20:26.5735[0m [0;90mStratumServer [0m192.168.0.169:48038        no     5h 19m 25s          43502               1.429 KH/s     maia[0m
+[0;36m2024-10-27 09:20:26.5736[0m [0;90mStratumServer [0m192.168.0.220:45176        no     5h 19m 25s          39675               1.322 KH/s     phoebe[0m
+[0;36m2024-10-27 09:20:26.5737[0m [0;90mStratumServer [0m192.168.0.192:34174        no     5h 19m 25s          20431               697 H/s        brat[0m
+[0;36m2024-10-27 09:20:26.5738[0m [0;90mStratumServer [0m192.168.0.176:44204        no     5h 19m 26s          46121               1.516 KH/s     kermit[0m
+[0;36m2024-10-27 09:20:26.5739[0m [0;90mStratumServer [0m192.168.0.86:43534         no     1d 6h 2m 58s        49609               1.653 KH/s     sally[0m
+[0;36m2024-10-27 09:20:26.5740[0m [0;90mStratumServer [0m192.168.0.244:38026        no     8d 15h 0m 5s        6709                223 H/s        bingo[0m
+[0;36m2024-10-27 09:20:26.5741[0m [0;90mStratumServer [0m192.168.0.27:33002         no     8d 15h 0m 5s        25932               864 H/s        paris[0m
+[0;36m2024-10-27 09:20:26.5741[0m [0;90mStratumServer [0mTotal: 7 workers[0m
+[0;36m2024-10-27 10:19:31.4650[0m [0;90mStratumServer [0m[0;32mSHARE FOUND: mainchain height 3268141, sidechain height 9029402, diff 115180723, client 192.168.0.176:44204, user kermit, effort 122.867%[0m
+[0;36m2024-10-27 11:25:05.8275[0m [0;90mStratumServer [0m[0;32mSHARE FOUND: mainchain height 3268176, sidechain height 9029748, diff 114818484, client 192.168.0.86:43534, user sally, effort 22.958%[0m
+[0;36m2024-10-27 11:47:12.9678[0m [0;90mSideChain [0mstatus
+Monero node               = 192.168.0.176:20081:ZMQ:20083
+Main chain height         = 3268190
+Main chain hashrate       = 2.862 GH/s
+Side chain ID             = mini
+Side chain height         = 9029887
+Side chain hashrate       = 11.169 MH/s
+Your hashrate (pool-side) = 10.206 KH/s
+PPLNS window              = 2160 blocks (+53 uncles, 0 orphans)
+PPLNS window duration     = 6h 15m 33s
+Your wallet address       = 48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG
+Your shares               = 2 blocks (+0 uncles, 0 orphans)
+Your shares position      = [.1....1.......................]
+Block reward share        = 0.091% (0.000554479637 XMR)[0m
+[0;36m2024-10-27 11:47:12.9678[0m [0;90mStratumServer [0mstatus
+Hashrate (15m est) = 6.969 KH/s
+Hashrate (1h  est) = 6.689 KH/s
+Hashrate (24h est) = 6.870 KH/s
+Total hashes       = 5149406348
+Shares found       = 57
+Average effort     = 78.126%
+Current effort     = 7.933%
+Connections        = 7 (7 incoming)[0m
+[0;36m2024-10-27 11:47:12.9678[0m [0;90mP2PServer [0mstatus
+Connections    = 31 (15 incoming)
+Peer list size = 973
+Uptime         = 8d 17h 26m 58s[0m
+[0;36m2024-10-27 11:47:12.9678[0m [0;90mUtil [0mno background jobs running[0m
+[0;36m2024-10-27 11:47:12.9685[0m [0;90mStratumServer [0mIP:port                    TLS    uptime              difficulty          hashrate       name[0m
+[0;36m2024-10-27 11:47:12.9686[0m [0;90mStratumServer [0m192.168.0.169:48038        no     7h 46m 11s          44372               1.479 KH/s     maia[0m
+[0;36m2024-10-27 11:47:12.9688[0m [0;90mStratumServer [0m192.168.0.220:45176        no     7h 46m 11s          19690               656 H/s        phoebe[0m
+[0;36m2024-10-27 11:47:12.9690[0m [0;90mStratumServer [0m192.168.0.192:34174        no     7h 46m 11s          23151               771 H/s        brat[0m
+[0;36m2024-10-27 11:47:12.9691[0m [0;90mStratumServer [0m192.168.0.176:44204        no     7h 46m 12s          40427               1.347 KH/s     kermit[0m
+[0;36m2024-10-27 11:47:12.9693[0m [0;90mStratumServer [0m192.168.0.86:43534         no     1d 8h 29m 44s       45455               1.515 KH/s     sally[0m
+[0;36m2024-10-27 11:47:12.9695[0m [0;90mStratumServer [0m192.168.0.244:38026        no     8d 17h 26m 51s      6194                206 H/s        bingo[0m
+[0;36m2024-10-27 11:47:12.9698[0m [0;90mStratumServer [0m192.168.0.27:33002         no     8d 17h 26m 51s      32419               1.080 KH/s     paris[0m
+[0;36m2024-10-27 11:47:12.9700[0m [0;90mStratumServer [0mTotal: 7 workers[0m
+[0;36m2024-10-27 20:38:52.2560[0m [0;90mSideChain [0mstatus
+Monero node               = 192.168.0.176:20081:ZMQ:20083
+Main chain height         = 3268476
+Main chain hashrate       = 2.974 GH/s
+Side chain ID             = mini
+Side chain height         = 9033033
+Side chain hashrate       = 11.388 MH/s
+PPLNS window              = 2160 blocks (+65 uncles, 2 orphans)
+PPLNS window duration     = 6h 10m 17s
+Your wallet address       = 48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG
+Your shares               = 0 blocks (+0 uncles, 0 orphans)
+Block reward share        = 0.000% (0.000000000000 XMR)[0m
+[0;36m2024-10-27 20:38:52.2560[0m [0;90mStratumServer [0mstatus
+Hashrate (15m est) = 5.630 KH/s
+Hashrate (1h  est) = 6.222 KH/s
+Hashrate (24h est) = 6.820 KH/s
+Total hashes       = 5364030785
+Shares found       = 57
+Average effort     = 78.126%
+Current effort     = 196.237%
+Connections        = 7 (7 incoming)[0m
+[0;36m2024-10-27 20:38:52.2560[0m [0;90mP2PServer [0mstatus
+Connections    = 32 (16 incoming)
+Peer list size = 979
+Uptime         = 9d 2h 18m 37s[0m
+[0;36m2024-10-27 20:38:52.2560[0m [0;90mUtil [0mno background jobs running[0m
+[0;36m2024-10-27 20:38:52.2563[0m [0;90mStratumServer [0mIP:port                    TLS    uptime              difficulty          hashrate       name[0m
+[0;36m2024-10-27 20:38:52.2565[0m [0;90mStratumServer [0m192.168.0.169:48038        no     16h 37m 50s         37868               1.262 KH/s     maia[0m
+[0;36m2024-10-27 20:38:52.2566[0m [0;90mStratumServer [0m192.168.0.220:45176        no     16h 37m 50s         23933               797 H/s        phoebe[0m
+[0;36m2024-10-27 20:38:52.2567[0m [0;90mStratumServer [0m192.168.0.192:34174        no     16h 37m 50s         17717               590 H/s        brat[0m
+[0;36m2024-10-27 20:38:52.2568[0m [0;90mStratumServer [0m192.168.0.176:44204        no     16h 37m 51s         42311               1.410 KH/s     kermit[0m
+[0;36m2024-10-27 20:38:52.2569[0m [0;90mStratumServer [0m192.168.0.86:43534         no     1d 17h 21m 23s      43349               1.444 KH/s     sally[0m
+[0;36m2024-10-27 20:38:52.2570[0m [0;90mStratumServer [0m192.168.0.244:38026        no     9d 2h 18m 30s       7027                234 H/s        bingo[0m
+[0;36m2024-10-27 20:38:52.2571[0m [0;90mStratumServer [0m192.168.0.27:33002         no     9d 2h 18m 30s       19435               647 H/s        paris[0m
+[0;36m2024-10-27 20:38:52.2571[0m [0;90mStratumServer [0mTotal: 7 workers[0m
+[0;36m2024-10-27 20:53:17.2546[0m [0;90mStratumServer [0m[0;32mSHARE FOUND: mainchain height 3268485, sidechain height 9033105, diff 113960438, client 192.168.0.27:33002, user paris, effort 200.544%[0m
+[0;36m2024-10-27 22:06:15.5779[0m [0;90mSideChain [0mstatus
+Monero node               = 192.168.0.176:20081:ZMQ:20083
+Main chain height         = 3268523
+Main chain hashrate       = 2.921 GH/s
+Side chain ID             = mini
+Side chain height         = 9033550
+Side chain hashrate       = 11.377 MH/s
+Your hashrate (pool-side) = 5.125 KH/s
+PPLNS window              = 2160 blocks (+58 uncles, 2 orphans)
+PPLNS window duration     = 6h 10m 33s
+Your wallet address       = 48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG
+Your shares               = 1 blocks (+0 uncles, 0 orphans)
+Your shares position      = [.....1........................]
+Block reward share        = 0.045% (0.000271600581 XMR)[0m
+[0;36m2024-10-27 22:06:15.5779[0m [0;90mStratumServer [0mstatus
+Hashrate (15m est) = 5.696 KH/s
+Hashrate (1h  est) = 6.388 KH/s
+Hashrate (24h est) = 6.763 KH/s
+Total hashes       = 5397351238
+Shares found       = 58
+Average effort     = 80.210%
+Current effort     = 24.843%
+Connections        = 7 (7 incoming)[0m
+[0;36m2024-10-27 22:06:15.5779[0m [0;90mP2PServer [0mstatus
+Connections    = 32 (16 incoming)
+Peer list size = 972
+Uptime         = 9d 3h 46m 1s[0m
+[0;36m2024-10-27 22:06:15.5779[0m [0;90mUtil [0mno background jobs running[0m
+[0;36m2024-10-27 22:06:15.5786[0m [0;90mStratumServer [0mIP:port                    TLS    uptime              difficulty          hashrate       name[0m
+[0;36m2024-10-27 22:06:15.5787[0m [0;90mStratumServer [0m192.168.0.169:48038        no     18h 5m 14s          43116               1.437 KH/s     maia[0m
+[0;36m2024-10-27 22:06:15.5789[0m [0;90mStratumServer [0m192.168.0.220:45176        no     18h 5m 14s          21552               718 H/s        phoebe[0m
+[0;36m2024-10-27 22:06:15.5791[0m [0;90mStratumServer [0m192.168.0.192:34174        no     18h 5m 14s          19531               651 H/s        brat[0m
+[0;36m2024-10-27 22:06:15.5793[0m [0;90mStratumServer [0m192.168.0.176:44204        no     18h 5m 15s          35268               1.175 KH/s     kermit[0m
+[0;36m2024-10-27 22:06:15.5796[0m [0;90mStratumServer [0m192.168.0.86:43534         no     1d 18h 48m 47s      42108               1.403 KH/s     sally[0m
+[0;36m2024-10-27 22:06:15.5798[0m [0;90mStratumServer [0m192.168.0.244:38026        no     9d 3h 45m 54s       6351                211 H/s        bingo[0m
+[0;36m2024-10-27 22:06:15.5800[0m [0;90mStratumServer [0m192.168.0.27:33002         no     9d 3h 45m 54s       1000                33 H/s         paris[0m
+[0;36m2024-10-27 22:06:15.5801[0m [0;90mStratumServer [0mTotal: 7 workers[0m
+[0;36m2024-10-27 22:26:46.4315[0m [0;90mSideChain [0m[0;92madd_external_block: block 6e3ddeb59deb432940f9784c93d758a7398adb6b2ba156324b76d9e3f3164a9e has enough PoW for Monero network, submitting it[0m
+[0;36m2024-10-27 22:26:46.4355[0m [0;90mP2Pool [0m[0;92msubmit_block: height = 3268534, external blob (25300 bytes)[0m
+[0;36m2024-10-27 22:26:46.6121[0m [0;90mP2Pool [0m[0;92mBLOCK FOUND: main chain block at height 3268534 was mined by someone else in this p2pool
+-----------------------------------------------------------------------------------------------
+| ######   #        #######   #####   #    #      #######  #######  #     #  #     #  ######  |
+| #     #  #        #     #  #     #  #   #       #        #     #  #     #  ##    #  #     # |
+| #     #  #        #     #  #        #  #        #        #     #  #     #  # #   #  #     # |
+| ######   #        #     #  #        ###         #####    #     #  #     #  #  #  #  #     # |
+| #     #  #        #     #  #        #  #        #        #     #  #     #  #   # #  #     # |
+| #     #  #        #     #  #     #  #   #       #        #     #  #     #  #    ##  #     # |
+| ######   #######  #######   #####   #    #      #        #######   #####   #     #  ######  |
+-----------------------------------------------------------------------------------------------[0m
+[0;36m2024-10-27 22:26:46.6127[0m [0;90mP2Pool [0m[0;96mYour wallet [0;92m48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG[0;96m got a payout of [0;92m0.000271779850 XMR[0;96m in block [0;92m3268534[0m
+[0;36m2024-10-27 22:26:48.2068[0m [0;90mP2Pool [0m[0;92msubmit_block: BLOCK ACCEPTED at height 3268534 and difficulty = 354091680962[0m
+[0;36m2024-10-28 01:04:27.0799[0m [0;90mSideChain [0mstatus
+Monero node               = 192.168.0.176:20081:ZMQ:20083
+Main chain height         = 3268600
+Main chain hashrate       = 3.046 GH/s
+Side chain ID             = mini
+Side chain height         = 9034553
+Side chain hashrate       = 11.235 MH/s
+Your hashrate (pool-side) = 5.076 KH/s
+PPLNS window              = 2160 blocks (+61 uncles, 1 orphans)
+PPLNS window duration     = 6h 14m 10s
+Your wallet address       = 48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG
+Your shares               = 1 blocks (+0 uncles, 0 orphans)
+Your shares position      = [...................1..........]
+Block reward share        = 0.045% (0.000281828485 XMR)[0m
+[0;36m2024-10-28 01:04:27.0799[0m [0;90mStratumServer [0mstatus
+Hashrate (15m est) = 5.533 KH/s
+Hashrate (1h  est) = 5.610 KH/s
+Hashrate (24h est) = 6.672 KH/s
+Total hashes       = 5461254262
+Shares found       = 58
+Average effort     = 80.210%
+Current effort     = 82.037%
+Connections        = 6 (6 incoming)[0m
+[0;36m2024-10-28 01:04:27.0799[0m [0;90mP2PServer [0mstatus
+Connections    = 32 (16 incoming)
+Peer list size = 969
+Uptime         = 9d 6h 44m 12s[0m
+[0;36m2024-10-28 01:04:27.0799[0m [0;90mUtil [0mno background jobs running[0m
+[0;36m2024-10-28 01:04:27.0802[0m [0;90mStratumServer [0mIP:port                    TLS    uptime              difficulty          hashrate       name[0m
+[0;36m2024-10-28 01:04:27.0803[0m [0;90mStratumServer [0m192.168.0.169:48038        no     21h 3m 25s          45752               1.525 KH/s     maia[0m
+[0;36m2024-10-28 01:04:27.0804[0m [0;90mStratumServer [0m192.168.0.220:45176        no     21h 3m 25s          25912               863 H/s        phoebe[0m
+[0;36m2024-10-28 01:04:27.0805[0m [0;90mStratumServer [0m192.168.0.192:34174        no     21h 3m 25s          16463               542 H/s        brat[0m
+[0;36m2024-10-28 01:04:27.0806[0m [0;90mStratumServer [0m192.168.0.176:44204        no     21h 3m 26s          36715               1.223 KH/s     kermit[0m
+[0;36m2024-10-28 01:04:27.0807[0m [0;90mStratumServer [0m192.168.0.86:43534         no     1d 21h 46m 58s      44916               1.497 KH/s     sally[0m
+[0;36m2024-10-28 01:04:27.0808[0m [0;90mStratumServer [0m192.168.0.244:38026        no     9d 6h 44m 5s        7402                241 H/s        bingo[0m
+[0;36m2024-10-28 01:04:27.0809[0m [0;90mStratumServer [0mTotal: 6 workers[0m
+[0;36m2024-10-28 03:25:35.1234[0m [0;90mSideChain [0m[0;92madd_external_block: block 2a9a6b754eb1d062041b7633dcacfd1702ff9caa105afdefdc082bb7133c3574 has enough PoW for Monero network, submitting it[0m
+[0;36m2024-10-28 03:25:35.1275[0m [0;90mP2Pool [0m[0;92msubmit_block: height = 3268655, external blob (23871 bytes)[0m
+[0;36m2024-10-28 03:25:35.3058[0m [0;90mP2Pool [0m[0;92mBLOCK FOUND: main chain block at height 3268655 was mined by someone else in this p2pool
+-----------------------------------------------------------------------------------------------
+| ######   #        #######   #####   #    #      #######  #######  #     #  #     #  ######  |
+| #     #  #        #     #  #     #  #   #       #        #     #  #     #  ##    #  #     # |
+| #     #  #        #     #  #        #  #        #        #     #  #     #  # #   #  #     # |
+| ######   #        #     #  #        ###         #####    #     #  #     #  #  #  #  #     # |
+| #     #  #        #     #  #        #  #        #        #     #  #     #  #   # #  #     # |
+| #     #  #        #     #  #     #  #   #       #        #     #  #     #  #    ##  #     # |
+| ######   #######  #######   #####   #    #      #        #######   #####   #     #  ######  |
+-----------------------------------------------------------------------------------------------[0m
+[0;36m2024-10-28 03:25:35.3073[0m [0;90mP2Pool [0m[0;96mYour wallet [0;93m48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG[0;96m didn't get a payout in block [0;93m3268655[0;96m because you had no shares in PPLNS window[0m
+[0;36m2024-10-28 03:25:36.5047[0m [0;90mP2Pool [0m[0;92msubmit_block: BLOCK ACCEPTED at height 3268655 and difficulty = 364672381453[0m
+[0;36m2024-10-28 03:36:31.4613[0m [0;90mSideChain [0mstatus
+Monero node               = 192.168.0.176:20081:ZMQ:20083
+Main chain height         = 3268662
+Main chain hashrate       = 3.025 GH/s
+Side chain ID             = mini
+Side chain height         = 9035426
+Side chain hashrate       = 11.028 MH/s
+PPLNS window              = 2160 blocks (+61 uncles, 1 orphans)
+PPLNS window duration     = 6h 18m 11s
+Your wallet address       = 48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG
+Your shares               = 0 blocks (+0 uncles, 0 orphans)
+Block reward share        = 0.000% (0.000000000000 XMR)[0m
+[0;36m2024-10-28 03:36:31.4613[0m [0;90mStratumServer [0mstatus
+Hashrate (15m est) = 6.521 KH/s
+Hashrate (1h  est) = 6.200 KH/s
+Hashrate (24h est) = 6.616 KH/s
+Total hashes       = 5517929069
+Shares found       = 58
+Average effort     = 80.210%
+Current effort     = 134.966%
+Connections        = 6 (6 incoming)[0m
+[0;36m2024-10-28 03:36:31.4613[0m [0;90mP2PServer [0mstatus
+Connections    = 32 (16 incoming)
+Peer list size = 989
+Uptime         = 9d 9h 16m 17s[0m
+[0;36m2024-10-28 03:36:31.4613[0m [0;90mUtil [0mno background jobs running[0m
+[0;36m2024-10-28 03:36:31.4616[0m [0;90mStratumServer [0mIP:port                    TLS    uptime              difficulty          hashrate       name[0m
+[0;36m2024-10-28 03:36:31.4617[0m [0;90mStratumServer [0m192.168.0.169:48038        no     23h 35m 30s         51881               1.729 KH/s     maia[0m
+[0;36m2024-10-28 03:36:31.4618[0m [0;90mStratumServer [0m192.168.0.220:45176        no     23h 35m 30s         25274               842 H/s        phoebe[0m
+[0;36m2024-10-28 03:36:31.4619[0m [0;90mStratumServer [0m192.168.0.192:34174        no     23h 35m 30s         16950               565 H/s        brat[0m
+[0;36m2024-10-28 03:36:31.4620[0m [0;90mStratumServer [0m192.168.0.176:44204        no     23h 35m 31s         50673               1.748 KH/s     kermit[0m
+[0;36m2024-10-28 03:36:31.4621[0m [0;90mStratumServer [0m192.168.0.86:43534         no     2d 0h 19m 3s        46917               1.563 KH/s     sally[0m
+[0;36m2024-10-28 03:36:31.4622[0m [0;90mStratumServer [0m192.168.0.244:38026        no     9d 9h 16m 10s       8805                293 H/s        bingo[0m
+[0;36m2024-10-28 03:36:31.4623[0m [0;90mStratumServer [0mTotal: 6 workers[0m
+[0;36m2024-10-28 04:02:40.7556[0m [0;90mRandomX_Hasher [0mnew seed [0;94m5d21b628587fd040bdce034716bf018fbbbcc11a332306029acb455411dea789[0m
+[0;36m2024-10-28 04:02:41.7047[0m [0;90mRandomX_Hasher [0m[0;96mcache updated[0m
+[0;36m2024-10-28 04:02:41.7048[0m [0;90mRandomX_Hasher [0m[0;96mrunning 2 threads to update dataset[0m
+[0;36m2024-10-28 04:02:54.1509[0m [0;90mRandomX_Hasher [0m[0;96mdataset updated[0m
+[0;36m2024-10-28 04:21:24.9547[0m [0;90mSideChain [0mstatus
+Monero node               = 192.168.0.176:20081:ZMQ:20083
+Main chain height         = 3268681
+Main chain hashrate       = 3.013 GH/s
+Side chain ID             = mini
+Side chain height         = 9035699
+Side chain hashrate       = 11.061 MH/s
+PPLNS window              = 2160 blocks (+62 uncles, 1 orphans)
+PPLNS window duration     = 6h 15m 44s
+Your wallet address       = 48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG
+Your shares               = 0 blocks (+0 uncles, 0 orphans)
+Block reward share        = 0.000% (0.000000000000 XMR)[0m
+[0;36m2024-10-28 04:21:24.9548[0m [0;90mStratumServer [0mstatus
+Hashrate (15m est) = 5.060 KH/s
+Hashrate (1h  est) = 5.869 KH/s
+Hashrate (24h est) = 6.569 KH/s
+Total hashes       = 5533148701
+Shares found       = 58
+Average effort     = 80.210%
+Current effort     = 148.319%
+Connections        = 6 (6 incoming)[0m
+[0;36m2024-10-28 04:21:24.9548[0m [0;90mP2PServer [0mstatus
+Connections    = 32 (16 incoming)
+Peer list size = 989
+Uptime         = 9d 10h 1m 10s[0m
+[0;36m2024-10-28 04:21:24.9548[0m [0;90mUtil [0mno background jobs running[0m
+[0;36m2024-10-28 04:21:24.9551[0m [0;90mStratumServer [0mIP:port                    TLS    uptime              difficulty          hashrate       name[0m
+[0;36m2024-10-28 04:21:24.9552[0m [0;90mStratumServer [0m192.168.0.176:40992        no     0h 20m 23s          32393               1.079 KH/s     kermit[0m
+[0;36m2024-10-28 04:21:24.9553[0m [0;90mStratumServer [0m192.168.0.192:47918        no     0h 20m 23s          14263               475 H/s        brat[0m
+[0;36m2024-10-28 04:21:24.9554[0m [0;90mStratumServer [0m192.168.0.169:48872        no     0h 20m 23s          37234               1.241 KH/s     maia[0m
+[0;36m2024-10-28 04:21:24.9554[0m [0;90mStratumServer [0m192.168.0.220:37450        no     0h 20m 24s          21344               711 H/s        phoebe[0m
+[0;36m2024-10-28 04:21:24.9556[0m [0;90mStratumServer [0m192.168.0.86:43534         no     2d 1h 3m 56s        42500               1.416 KH/s     sally[0m
+[0;36m2024-10-28 04:21:24.9556[0m [0;90mStratumServer [0m192.168.0.244:38026        no     9d 10h 1m 3s        7683                256 H/s        bingo[0m
+[0;36m2024-10-28 04:21:24.9557[0m [0;90mStratumServer [0mTotal: 6 workers[0m
+[0;36m2024-10-28 05:19:53.9853[0m [0;90mStratumServer [0m[0;32mSHARE FOUND: mainchain height 3268701, sidechain height 9036065, diff 112768684, client 192.168.0.169:48872, user maia, effort 163.135%[0m
+[0;36m2024-10-28 06:16:00.3894[0m [0;90mStratumServer [0m[0;32mSHARE FOUND: mainchain height 3268734, sidechain height 9036399, diff 112306699, client 192.168.0.176:40992, user kermit, effort 18.836%[0m
+[0;36m2024-10-28 07:30:24.5538[0m [0;90mSideChain [0m[0;92madd_external_block: block 5ae9fade26b5d6a1873e145086f716847b7a7d16abad958ccbcc2b33bbeae53b has enough PoW for Monero network, submitting it[0m
+[0;36m2024-10-28 07:30:24.5567[0m [0;90mP2Pool [0m[0;92msubmit_block: height = 3268766, external blob (24747 bytes)[0m
+[0;36m2024-10-28 07:30:24.7500[0m [0;90mP2Pool [0m[0;92mBLOCK FOUND: main chain block at height 3268766 was mined by someone else in this p2pool
+-----------------------------------------------------------------------------------------------
+| ######   #        #######   #####   #    #      #######  #######  #     #  #     #  ######  |
+| #     #  #        #     #  #     #  #   #       #        #     #  #     #  ##    #  #     # |
+| #     #  #        #     #  #        #  #        #        #     #  #     #  # #   #  #     # |
+| ######   #        #     #  #        ###         #####    #     #  #     #  #  #  #  #     # |
+| #     #  #        #     #  #        #  #        #        #     #  #     #  #   # #  #     # |
+| #     #  #        #     #  #     #  #   #       #        #     #  #     #  #    ##  #     # |
+| ######   #######  #######   #####   #    #      #        #######   #####   #     #  ######  |
+-----------------------------------------------------------------------------------------------[0m
+[0;36m2024-10-28 07:30:24.7502[0m [0;90mP2Pool [0m[0;96mYour wallet [0;92m48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG[0;96m got a payout of [0;92m0.000555439104 XMR[0;96m in block [0;92m3268766[0m
+[0;36m2024-10-28 07:30:26.1146[0m [0;90mP2Pool [0m[0;92msubmit_block: BLOCK ACCEPTED at height 3268766 and difficulty = 346087353861[0m
+[0;36m2024-10-28 14:20:16.7163[0m [0;90mSideChain [0mstatus
+Monero node               = 192.168.0.176:20081:ZMQ:20083
+Main chain height         = 3268995
+Main chain hashrate       = 2.898 GH/s
+Side chain ID             = mini
+Side chain height         = 9039169
+Side chain hashrate       = 10.907 MH/s
+PPLNS window              = 2160 blocks (+51 uncles, 0 orphans)
+PPLNS window duration     = 6h 20m 42s
+Your wallet address       = 48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG
+Your shares               = 0 blocks (+0 uncles, 0 orphans)
+Block reward share        = 0.000% (0.000000000000 XMR)[0m
+[0;36m2024-10-28 14:20:16.7163[0m [0;90mStratumServer [0mstatus
+Hashrate (15m est) = 6.720 KH/s
+Hashrate (1h  est) = 6.763 KH/s
+Hashrate (24h est) = 6.396 KH/s
+Total hashes       = 5760919796
+Shares found       = 60
+Average effort     = 80.565%
+Current effort     = 171.184%
+Connections        = 6 (6 incoming)[0m
+[0;36m2024-10-28 14:20:16.7163[0m [0;90mP2PServer [0mstatus
+Connections    = 32 (16 incoming)
+Peer list size = 1026
+Uptime         = 9d 20h 0m 2s[0m
+[0;36m2024-10-28 14:20:16.7163[0m [0;90mUtil [0mno background jobs running[0m
+[0;36m2024-10-28 14:20:16.7166[0m [0;90mStratumServer [0mIP:port                    TLS    uptime              difficulty          hashrate       name[0m
+[0;36m2024-10-28 14:20:16.7166[0m [0;90mStratumServer [0m192.168.0.176:40992        no     10h 19m 15s         46632               1.554 KH/s     kermit[0m
+[0;36m2024-10-28 14:20:16.7166[0m [0;90mStratumServer [0m192.168.0.192:47918        no     10h 19m 15s         20114               670 H/s        brat[0m
+[0;36m2024-10-28 14:20:16.7166[0m [0;90mStratumServer [0m192.168.0.169:48872        no     10h 19m 15s         51934               1.731 KH/s     maia[0m
+[0;36m2024-10-28 14:20:16.7166[0m [0;90mStratumServer [0m192.168.0.220:37450        no     10h 19m 16s         24238               807 H/s        phoebe[0m
+[0;36m2024-10-28 14:20:16.7166[0m [0;90mStratumServer [0m192.168.0.86:43534         no     2d 11h 2m 48s       59636               1.987 KH/s     sally[0m
+[0;36m2024-10-28 14:20:16.7166[0m [0;90mStratumServer [0m192.168.0.244:38026        no     9d 19h 59m 55s      6864                228 H/s        bingo[0m
+[0;36m2024-10-28 14:20:16.7166[0m [0;90mStratumServer [0mTotal: 6 workers[0m
+[0;36m2024-10-28 22:30:53.5428[0m [0;90mSideChain [0m[0;92madd_external_block: block b61b3aa303ed5be045d2beab622ca741c5ae51f446034a807a9454f0ecc729a4 has enough PoW for Monero network, submitting it[0m
+[0;36m2024-10-28 22:30:53.5461[0m [0;90mP2Pool [0m[0;92msubmit_block: height = 3269276, external blob (25829 bytes)[0m
+[0;36m2024-10-28 22:30:53.7525[0m [0;90mP2Pool [0m[0;92mBLOCK FOUND: main chain block at height 3269276 was mined by someone else in this p2pool
+-----------------------------------------------------------------------------------------------
+| ######   #        #######   #####   #    #      #######  #######  #     #  #     #  ######  |
+| #     #  #        #     #  #     #  #   #       #        #     #  #     #  ##    #  #     # |
+| #     #  #        #     #  #        #  #        #        #     #  #     #  # #   #  #     # |
+| ######   #        #     #  #        ###         #####    #     #  #     #  #  #  #  #     # |
+| #     #  #        #     #  #        #  #        #        #     #  #     #  #   # #  #     # |
+| #     #  #        #     #  #     #  #   #       #        #     #  #     #  #    ##  #     # |
+| ######   #######  #######   #####   #    #      #        #######   #####   #     #  ######  |
+-----------------------------------------------------------------------------------------------[0m
+[0;36m2024-10-28 22:30:53.7534[0m [0;90mP2Pool [0m[0;96mYour wallet [0;93m48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG[0;96m didn't get a payout in block [0;93m3269276[0;96m because you had no shares in PPLNS window[0m
+[0;36m2024-10-28 22:30:55.8974[0m [0;90mP2Pool [0m[0;92msubmit_block: BLOCK ACCEPTED at height 3269276 and difficulty = 371574106934[0m
+[0;36m2024-10-28 22:48:21.9387[0m [0;90mSideChain [0mstatus
+Monero node               = 192.168.0.176:20081:ZMQ:20083
+Main chain height         = 3269284
+Main chain hashrate       = 3.119 GH/s
+Side chain ID             = mini
+Side chain height         = 9042149
+Side chain hashrate       = 11.037 MH/s
+PPLNS window              = 2160 blocks (+48 uncles, 0 orphans)
+PPLNS window duration     = 6h 16m 39s
+Your wallet address       = 48wY7nYBsQNSw7v4LjoNnvCtk1Y6GLNVmePGrW82gVhYhQtWJFHi6U6G3X5d7JN2ucajU9SeBcijET8ZzKWYwC3z3Y6fDEG
+Your shares               = 0 blocks (+0 uncles, 0 orphans)
+Block reward share        = 0.000% (0.000000000000 XMR)[0m
+[0;36m2024-10-28 22:48:21.9388[0m [0;90mStratumServer [0mstatus
+Hashrate (15m est) = 7.596 KH/s
+Hashrate (1h  est) = 6.205 KH/s
+Hashrate (24h est) = 6.172 KH/s
+Total hashes       = 5946959869
+Shares found       = 60
+Average effort     = 80.565%
+Current effort     = 337.744%
+Connections        = 6 (6 incoming)[0m
+[0;36m2024-10-28 22:48:21.9388[0m [0;90mP2PServer [0mstatus
+Connections    = 32 (16 incoming)
+Peer list size = 1003
+Uptime         = 10d 4h 28m 7s[0m
+[0;36m2024-10-28 22:48:21.9388[0m [0;90mUtil [0mno background jobs running[0m
+[0;36m2024-10-28 22:48:21.9391[0m [0;90mStratumServer [0mIP:port                    TLS    uptime              difficulty          hashrate       name[0m
+[0;36m2024-10-28 22:48:21.9391[0m [0;90mStratumServer [0m192.168.0.176:40992        no     18h 47m 20s         50655               1.688 KH/s     kermit[0m
+[0;36m2024-10-28 22:48:21.9391[0m [0;90mStratumServer [0m192.168.0.192:47918        no     18h 47m 20s         19857               630 H/s        brat[0m
+[0;36m2024-10-28 22:48:21.9391[0m [0;90mStratumServer [0m192.168.0.169:48872        no     18h 47m 20s         54121               1.804 KH/s     maia[0m
+[0;36m2024-10-28 22:48:21.9391[0m [0;90mStratumServer [0m192.168.0.220:37450        no     18h 47m 21s         27755               925 H/s        phoebe[0m
+[0;36m2024-10-28 22:48:21.9391[0m [0;90mStratumServer [0m192.168.0.86:43534         no     2d 19h 30m 53s      60386               2.012 KH/s     sally[0m
+[0;36m2024-10-28 22:48:21.9391[0m [0;90mStratumServer [0m192.168.0.244:38026        no     10d 4h 28m 0s       6688                222 H/s        bingo[0m
+[0;36m2024-10-28 22:48:21.9391[0m [0;90mStratumServer [0mTotal: 6 workers[0m
