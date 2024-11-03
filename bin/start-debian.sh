@@ -6,4 +6,4 @@ docker run \
 	--name="debian" \
 	--hostname="debian" \
 	--domainname="osoyalce.com" \
-	debian:latest
+	sallykolodny/db4e:debian
